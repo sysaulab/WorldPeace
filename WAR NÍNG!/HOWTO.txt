@@ -1,0 +1,6 @@
+I use pandoc to create any final version of these...
+
+Example:
+
+pandoc *.md --toc --epub-cover-image=FRONT.jpg -o output.epub
+
