@@ -48,7 +48,6 @@ This is the story of the Seed Keepers—the ones who refuse to be numbers, who p
 
 **Open the book. Find your people. Start planting.**
 
-- [English](WarNing_ENGLISH.epub)
-- [Français](WarNing_FRANCAIS.epub)
+- [English](https://github.com/sysaulab/WorldPeace/releases/download/pre-edition/WarNing_ENGLISH.epub)
 
 ![Book cover...](WARNING_EN/FRONT.jpg)
