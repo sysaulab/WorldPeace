@@ -1,6 +1,8 @@
 # WorldPeace
 
-### [Download The Book in English](https://github.com/sysaulab/WorldPeace/releases/download/pre-edition/WarNing_ENGLISH.epub)
+## [Read the chapters](https://github.com/sysaulab/WorldPeace/tree/main/WARNING_EN)
+
+## [Download The Book in English](https://github.com/sysaulab/WorldPeace/releases/download/pre-edition/WarNing_ENGLISH.epub)
 
 ### They Told You That You're Broken. They Lied.
 
