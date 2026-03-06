@@ -1,5 +1,7 @@
 # WorldPeace
 
+### [Download The Book in English](https://github.com/sysaulab/WorldPeace/releases/download/pre-edition/WarNing_ENGLISH.epub)
+
 ### They Told You That You're Broken. They Lied.
 
 For years, you’ve felt it. A quiet hum beneath the noise of daily life. A sense that the game is rigged, that the constant pressure to consume, compete, and conform is slowly hollowing you out. You scroll through the news, watch the world lurch from one manufactured crisis to the next, and you feel it: a profound, unsettling wrongness.
