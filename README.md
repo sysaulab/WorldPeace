@@ -1,5 +1,12 @@
 # WorldPeace
 
+## Download the book
+
+| English | Français |
+|---|---|
+| [e-book (epub)]() | [e-book (epub)]() |
+
+
 ## [Read the chapters](https://github.com/sysaulab/WorldPeace/tree/main/WARNING_EN)
 
 ## [Download The Book in English](https://github.com/sysaulab/WorldPeace/releases/download/pre-edition/WarNing_ENGLISH.epub)
@@ -52,6 +59,3 @@ This is the story of the Seed Keepers—the ones who refuse to be numbers, who p
 
 **Open the book. Find your people. Start planting.**
 
-- [English](https://github.com/sysaulab/WorldPeace/releases/download/pre-edition/WarNing_ENGLISH.epub)
-
-![Book cover...](WARNING_EN/FRONT.jpg)
