@@ -4,12 +4,10 @@
 
 | English | Français |
 |---|---|
-| [e-book (epub)]() | [e-book (epub)]() |
-
-
-## [Read the chapters](https://github.com/sysaulab/WorldPeace/tree/main/WARNING_EN)
-
-## [Download The Book in English](https://github.com/sysaulab/WorldPeace/releases/download/pre-edition/WarNing_ENGLISH.epub)
+| [e-book (epub)](https://github.com/sysaulab/WorldPeace/releases/download/pre-edition/WarNing_english.epub) | [e-book (epub)](https://github.com/sysaulab/WorldPeace/releases/download/pre-edition/WarNing_francais.epub) |
+| [html](https://github.com/sysaulab/WorldPeace/releases/download/pre-edition/WarNing_english.html) | [html](https://github.com/sysaulab/WorldPeace/releases/download/pre-edition/WarNing_francais.html) |
+| [md](https://github.com/sysaulab/WorldPeace/releases/download/pre-edition/WarNing_english.md) | [md](https://github.com/sysaulab/WorldPeace/releases/download/pre-edition/WarNing_francais.md) |
+| [PDF](https://github.com/sysaulab/WorldPeace/releases/download/pre-edition/WarNing_english.pdf) | [PDF](https://github.com/sysaulab/WorldPeace/releases/download/pre-edition/WarNing_francais.pdf) |
 
 ### They Told You That You're Broken. They Lied.
 
