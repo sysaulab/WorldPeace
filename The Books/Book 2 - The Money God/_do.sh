@@ -1,0 +1,65 @@
+#!/bin/bash
+
+# Loop through all subdirectories in the current directory
+# The */ pattern matches only directories; trailing slash avoids matching files
+for dir in */ ; do
+	# Remove the trailing slash to get the clean directory name
+	dirname="${dir%/}"
+	
+	# Skip if no match (when no directories exist, the pattern remains as "*/")
+	# Check if the entry actually exists and is a directory
+	if [[ -d "$dirname" ]]; then
+		echo "Processing language: $dirname"
+		
+		echo "Translating"
+		if [[ "$dirname" != "en-us" ]]; then
+			./_translate_$dirname.sh
+		else
+			echo "Skipping 'en-us' folder (blocked)."
+		fi
+	
+	pandoc -o "$dirname.epub" $dirname/*.md --epub-cover-image=$dirname/cover.jpg
+	
+	pandoc -o "$dirname.txt" $dirname/*.md
+	
+	pandoc -o "$dirname.pocket.pdf" $dirname/*.md \
+		--toc --toc-depth=2 \
+		--pdf-engine=xelatex \
+		-V documentclass=book \
+		-V classoption=twoside \
+		-V header-includes="\usepackage{fontspec}\setsansfont{Helvetica}\usepackage{sectsty}\allsectionsfont{\sffamily}" \
+		-V geometry:"paperwidth=4.25in, paperheight=6.875in, inner=0.5in, outer=0.5in, top=0.6in, bottom=0.5in, bindingoffset=0.125in" \
+		-V fontsize="10pt" \
+		-V mainfont="Times New Roman" \
+		-V mainfontoptions:LetterSpace=0
+#		-V sansfont="Helvetica Neue" \
+		
+	pandoc -o "$dirname.trade.pdf" $dirname/*.md \
+		--toc --toc-depth=2 \
+		--pdf-engine=xelatex \
+		-V documentclass=book \
+		-V classoption=twoside \
+		-V header-includes="\usepackage{fontspec}\setsansfont{Helvetica}\usepackage{sectsty}\allsectionsfont{\sffamily}" \
+		-V geometry:"paperwidth=6in, paperheight=9in, inner=0.75in, outer=0.75in, top=0.75in, bottom=0.75in, bindingoffset=0.175in" \
+		-V fontsize="11pt" \
+		-V mainfont="Times New Roman" \
+		-V mainfontoptions:LetterSpace=0
+#		-V sansfont="Helvetica Neue" \
+		
+	pandoc -o "$dirname.letter.pdf" $dirname/*.md \
+		--toc --toc-depth=2 \
+		--pdf-engine=xelatex \
+		-V documentclass=book\
+		-V classoption=twoside \
+		-V header-includes="\usepackage{fontspec}\setsansfont{Helvetica}\usepackage{sectsty}\allsectionsfont{\sffamily}" \
+		-V geometry:"paperwidth=8.5in, paperheight=11in, inner=1in, outer=1in, top=1in, bottom=1in, bindingoffset=0.25in" \
+		-V fontsize="12pt" \
+		-V mainfont="Times New Roman" \
+		-V mainfontoptions:LetterSpace=0
+#		-V sansfont="Helvetica" \
+	else
+		# No directories found – you can handle that case or exit silently
+		echo "No directories found in the current location."
+		break
+	fi
+done

@@ -22,6 +22,46 @@ for dir in */ ; do
 	
 	pandoc -o "$dirname.txt" $dirname/*.md
 	
+	pandoc -o "$dirname.4_6.pdf" $dirname/*.md \
+		--toc --toc-depth=2 \
+		--pdf-engine=xelatex \
+		-V documentclass=book \
+		-V classoption=twoside \
+		-V header-includes="\usepackage{fontspec}\setsansfont{Helvetica}\usepackage{sectsty}\allsectionsfont{\sffamily}" \
+		-V geometry:"paperwidth=4in, paperheight=6in, inner=0.4in, outer=0.4in, top=0.5in, bottom=0.4in, bindingoffset=0in" \
+		-V fontsize="10pt" \
+		-V mainfont="Times New Roman" \
+		-V mainfontoptions:LetterSpace=0
+#		-V sansfont="Helvetica Neue" \
+	
+	pandoc -o "$dirname.55_85.pdf" $dirname/*.md \
+		--toc --toc-depth=2 \
+		--pdf-engine=xelatex \
+		-V documentclass=book \
+		-V classoption=twoside \
+		-V header-includes="\usepackage{fontspec}\setsansfont{Helvetica}\usepackage{sectsty}\allsectionsfont{\sffamily}" \
+		-V geometry:"paperwidth=5.5in, paperheight=8.5in, inner=0.5in, outer=0.5in, top=0.6in, bottom=0.5in, bindingoffset=0in" \
+		-V fontsize="11pt" \
+		-V mainfont="Times New Roman" \
+		-V mainfontoptions:LetterSpace=0 \
+#		-V sansfont="Helvetica Neue" \
+		
+	pdfbook2 -snp letterpaper -o 0 -i 0 -t 0 -b 0 "$dirname.55_85.pdf" 
+	
+	pandoc -o "$dirname.7_85.pdf" $dirname/*.md \
+		--toc --toc-depth=2 \
+		--pdf-engine=xelatex \
+		-V documentclass=book \
+		-V classoption=twoside \
+		-V header-includes="\usepackage{fontspec}\setsansfont{Helvetica}\usepackage{sectsty}\allsectionsfont{\sffamily}" \
+		-V geometry:"paperwidth=7in, paperheight=8.5in, inner=0.5in, outer=0.5in, top=0.6in, bottom=0.5in, bindingoffset=0in" \
+		-V fontsize="11pt" \
+		-V mainfont="Times New Roman" \
+		-V mainfontoptions:LetterSpace=0 \
+#		-V sansfont="Helvetica Neue" \
+		
+	pdfbook2 -snp letterpaper -o 0 -i 0 -t 0 -b 0 "$dirname.7_85.pdf" 
+	
 	pandoc -o "$dirname.pocket.pdf" $dirname/*.md \
 		--toc --toc-depth=2 \
 		--pdf-engine=xelatex \

@@ -1,0 +1,13 @@
+Here's M, the way I remember him.
+
+Another bench, another morning. That's how it started with him too. He just appeared and became a regular, the way people do when they sense you'll actually answer a hello. I don't remember the first words exactly, but I remember the feeling of him settling into that bench like he'd been looking for it.
+
+One morning I thought he was dying. He looked that close to the edge. I didn't know if he had hours or days or what, but something in me said: act like this is it. So I did my best to make his soul at ease, just in case. In a desperate moment, I took his hand and I asked God almighty to let me share his pain. I meant it. I wasn't performing. And sure enough, the next day I felt like absolute hell, and I cried without knowing why. Make of that what you will. I know what I felt.
+
+Things got better for M after that. He kicked his most destructive habit. But the path wasn't straight. I remember a period where it was almost funny—he'd talk about sobriety and then smoke crack in the same conversation. Only crack, he'd say, no more "side," as if that made him clean. I felt insulted. I'd sat there and held his hand and prayed to share his pain, and now he was trying to sell me crack as sobriety. So I just left. I couldn't pretend with him. I'm happy he grew out of it. He did grow, even if he had to insult my intelligence on the way.
+
+His room, for a long time, was something out of a nightmare. An old hotel, bugs everywhere. I helped him carry down cases of junk, a good dozen trash bags, but I could never enter that room. The cockroaches were too many, the smell was a physical wall. I'd stand in the hallway and reach in, taking what he handed me, but I couldn't cross the threshold. The last time I went to help, the smell hit me from the hallway and I simply left. I couldn't do it. I just turned and walked away. That memory still sits with me, the admission of it. But I'd shown up before. Many times. I stood at the edge of his chaos and reached in as far as I could.
+
+Today, M has decent housing. New furniture. He kicked all his habits, not just the one, not just the "side." He volunteers at the free bike repair shop in the park. The man whose room I couldn't enter now fixes things for others in the open air. I still have to visit his new place. I'm sure it's excellent.
+
+I took his hand on a bench when I thought he was dying, and now he's alive in a clean apartment, volunteering, sober. I felt his pain for a day and cried without knowing why, and now he has new furniture. There's no neat equation to that, but there's a story, and it's his, and I got to see it turn. That's M.
