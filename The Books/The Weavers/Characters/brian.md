@@ -13,4 +13,18 @@ One day I found him on that bench, passed out. He'd been there the whole day, in
 
 The last time I saw him, he had a crack pipe in his hand and he looked terrible. That's my final snapshot of Brian. He probably excused himself after that too. Maybe he said he'd be right back, and maybe that time he really never did come back. I don't know if he's dead now. I don't know if he ever somehow made it to Penticton like he always said he wanted to. But I know the pattern: the polite goodbye, the corner turned, the alley that swallowed him until next time.
 
-I miss him. I miss the goofy, proud, heartbreaking, disappearing man who sat with me on benches, who displayed his torch while reciting his sobriety, who scavenged beauty from back alleys and couldn't manage to save any for himself. He was always leaving. He was always saying he'd be right back. And now I'm the one left, sitting on the bench, waiting for a return that's never coming. That was my friend Brian.
+I miss him. I miss the goofy, proud, heartbreaking, disappearing man who sat with me on benches, who displayed his torch while reciting his sobriety, who scavenged beauty from back alleys and couldn't manage to save any for himself. He was always leaving. He was always saying he'd be right back. And now I'm the one left, sitting on the bench, waiting for a return that's never coming. 
+
+...One year later...
+
+Yesterday, Brian showed up.
+
+Not a memory, not a guess—Brian, in the flesh, waiting in line to get housing at the Carnegie Outreach. He made it to Penticton last year, after all. The dream that never had the money finally happened, except it ended in a hospital. And now the diagnosis: ALS. Lou Gehrig’s disease. Incurable.
+
+I don’t know how far along he is. I’m not sure I want to ask.
+
+So the bench gets one more scene. The disappearing man came back. Still goofy, still carrying something heavier now than the pipe or the torch—his own body turning against him. And I’m still here, sitting on the bench, but this time the waiting has a shape: yesterday, a line outside the Carnegie Outreach, and Brian standing in it.
+
+That was my friend Brian.
+
+
