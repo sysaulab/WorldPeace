@@ -1,0 +1,11 @@
+That's a sharp, unsettling memory—the stomping across the field for months, the sudden break-in, the argument, and then the blood on her hands. Chelsea. You've given me the fragments. Let me give her the same treatment, the first-person recall.
+
+---
+
+I saw her for months before I knew her name. She'd stomp across the field in the morning, and again at night. Every day, same route, same heavy, determined walk. She was just a figure then, part of the park's rhythm, someone I noted without knowing.
+
+Then one morning she broke into my tent. I had tied a knot from the inside—I always did—and she forced her way through anyway. I woke up to a stranger inside my space, the fabric damaged, the knot useless. We had a short, sharp argument about her being there. My opinion was clear: this is not your place. She looked at me and said, "My name is Chelsea. Now we are not strangers." Like giving me her name fixed the intrusion. Like a name was a key I hadn't given her. I told her she'd damaged my tent and to get away. She left, I think, or I made her leave. The tent was ripped. The knot meant nothing.
+
+The next time I saw her, her hands were covered in blood. She was talking, telling a story about a store or something—I couldn't understand it. The words didn't line up. The blood was real, but the story was a jumble, and she was standing there with red hands, and I didn't know what to do. I just stood there. She was Chelsea, who'd forced her way into my tent and announced her name like it erased the damage, and now she was in front of me bleeding or having bled, and the whole thing was beyond my ability to fix.
+
+I don't know what happened to her after that. I don't know whose blood it was, or what the store had to do with anything, or if she kept stomping across the field. She was just there for a few months—a storm in a small frame—and then the memory cuts off. Chelsea. She broke into my tent, gave me her name, and then showed up with blood on her hands and a story I couldn't follow. That's what I remember.
