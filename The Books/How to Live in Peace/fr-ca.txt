@@ -25,8 +25,8 @@ Et ça fonctionne---pendant un certain temps.\
 Une plaque de glace peut aussi retenir un rocher longtemps. Mais la
 glace n'est pas une structure ; c'est une phase temporaire.
 
-L'erreur est de confondre un combat en pause avec une relation guérie.
-Si je tiens un pistolet sur ta tête et que tu tiens un pistolet sur la
+L'erreur est de confondre un combat interrompu avec une relation guérie.
+Si je tiens un pistolet sur ta tempe et que tu tiens le tien sur la
 mienne, nous avons un équilibre parfait. Sommes-nous en paix ?
 
 Le problème, c'est que ce modèle traite les nations, les tribus et les
@@ -40,28 +40,28 @@ des pouvoirs qui ignore ces courants intérieurs est un barrage construit
 sur un volcan.
 
 Pire, la logique de symétrie miroir entraîne tout le monde à voir le
-monde comme un plateau à somme nulle. Chaque gain pour eux est une perte
+monde comme un jeu à somme nulle. Chaque gain pour eux est une perte
 pour nous. Chaque acte de gentillesse est un piège. Chaque compromis est
-un prélude à la trahison. Sous cette logique, même les artisans de la
-paix deviennent paranoïaques.
+un prélude à la trahison. Sous cette logique, même les artisans de paix
+deviennent paranoïaques.
 
 Et la paranoïa n'est pas folle, parce que le jeu de symétrie garantit
-qu'au moment où un camp prend l'avantage, l'autre doit frapper en
+qu'au moment où un camp prend l'avantage, l'autre doit frapper le
 premier ou périr. Alors les deux camps passent leur paix à préparer la
 guerre, ce qui déforme lentement leurs économies, leur éducation, leurs
 mythes, jusqu'à ce que la guerre ne soit plus une option mais une
 identité.
 
 Donc, la première chose que nous devons faire dans un livre sur la
-fabrication de la paix est d'admettre que **le modèle d'équilibre
-stratégique n'est pas un chemin vers la paix ; c'est une mèche à long
-terme**.
+fabrication de la paix, c'est admettre que **le modèle d'équilibre
+stratégique n'est pas un chemin vers la paix ; c'est une mèche à
+combustion lente**.
 
 Cela ne signifie pas que nous ignorons les réalités militaires. Cela
-signifie que nous cessons de prétendre qu'elles sont le fondement de la
+signifie que nous arrêtons de prétendre qu'elles sont le fondement de la
 paix. Le fondement de la paix est tout autre chose---quelque chose qui a
 à voir avec la façon dont les systèmes vivants s'autorégulent. Et pour
-comprendre cela, nous devons regarder ce que nous sommes réellement.
+comprendre cela, nous devons examiner ce que nous sommes réellement.
 
 ------------------------------------------------------------------------
 
@@ -81,14 +81,14 @@ Et si l'humanité est un corps vivant, alors la guerre est une maladie
 auto-immune.
 
 Considérez ce qui se passe dans un trouble auto-immun. Une partie du
-tissu du corps lui-même est prise pour un envahisseur étranger.
-Peut-être que quelques cellules affichent une protéine inhabituelle, ou
-qu'un signal est mal interprété. Le système immunitaire, qui existe pour
-protéger l'ensemble, lance une attaque féroce contre lui-même. Il envoie
-des cellules tueuses pour détruire des tissus parfaitement sains. Le
-corps mène une guerre à l'intérieur de ses propres frontières, et
-souvent les armes---inflammation, fièvre, cicatrices---font plus de
-dégâts que le déclencheur initial.
+tissu du corps est prise pour un envahisseur étranger. Peut-être que
+quelques cellules affichent une protéine inhabituelle, ou qu'un signal
+est mal interprété. Le système immunitaire, qui existe pour protéger
+l'ensemble, lance une attaque féroce contre lui-même. Il envoie des
+cellules tueuses pour détruire des tissus parfaitement sains. Le corps
+mène une guerre à l'intérieur de ses propres frontières, et souvent les
+armes---inflammation, fièvre, cicatrices---font plus de dégâts que le
+déclencheur initial.
 
 Maintenant, regardez une guerre. Deux groupes de la même espèce, souvent
 génétiquement indistinguables, partageant la même planète, la même
@@ -105,14 +105,14 @@ organisme unique, chaque raid de bombardement ressemblerait à une main
 attaquant un pied. Chaque génocide ressemblerait à une rate essayant de
 détruire le foie parce que le foie chantait la mauvaise chanson.
 
-L'analogie auto-immune n'est pas seulement une image intelligente. Elle
-suggère une toute autre façon de penser à ce que la paix exige. On ne
-guérit pas le lupus en mettant la moitié du système immunitaire d'un
-côté d'une pièce et l'autre moitié de l'autre côté et en leur disant de
-se regarder jusqu'à ce qu'ils se calment. On ne traite pas la
-polyarthrite rhumatoïde en donnant à chaque articulation enflammée son
-propre arsenal afin qu'aucune articulation ne puisse dominer les autres.
-Ce serait absurde.
+L'analogie auto-immune n'est pas qu'une image intelligente. Elle suggère
+une toute autre façon de penser à ce que la paix exige. On ne guérit pas
+le lupus en mettant la moitié du système immunitaire d'un côté d'une
+pièce et l'autre moitié de l'autre côté et en leur disant de se regarder
+jusqu'à ce qu'ils se calment. On ne traite pas la polyarthrite
+rhumatoïde en donnant à chaque articulation enflammée son propre arsenal
+pour qu'aucune articulation ne puisse dominer les autres. Ce serait
+absurde.
 
 Pourtant, c'est exactement ce que prescrit la doctrine de l'équilibre
 des pouvoirs : une trêve armée entre deux identités enflammées.
@@ -120,16 +120,17 @@ des pouvoirs : une trêve armée entre deux identités enflammées.
 Au lieu de cela, pour guérir une condition auto-immune, vous devez aller
 à la racine : l'échec du système immunitaire à reconnaître le « soi ».
 Vous devez reconstruire les voies de signalisation qui disent *c'est
-nous, c'est sûr, cela appartient.* Vous calmez l'attaque hyperactive,
-non pas en la menaçant d'une contre-attaque, mais en restaurant les
-mécanismes de régulation qui maintiennent le système entier.
+nous, c'est sûr, cela nous appartient.* Vous calmez l'attaque
+hyperactive, non pas en la menaçant d'une contre-attaque, mais en
+restaurant les mécanismes de régulation qui maintiennent le système
+entier.
 
 Appliqué à l'humanité, cela signifie que le vrai travail de la paix est
 de restaurer la capacité d'une partie du superorganisme à reconnaître
 une autre partie comme elle-même. Cela signifie reconstruire les boucles
 de rétroaction qui diraient normalement à une nation, une tribu, une
 religion que les gens de l'autre côté de la rivière ne sont pas un
-virus---ils sont un membre, et si vous le coupez, vous saignez.
+virus---ce sont un membre, et si vous le coupez, vous saignez.
 
 Donc, si nous voulons faire la paix sans nous entre-tuer, nous devons
 cesser de penser à la paix comme à un cessez-le-feu externe et commencer
@@ -144,10 +145,10 @@ tous : la façon dont nous pensons à l'avenir lui-même.
 
 Il y a une vieille fantaisie en science et en philosophie.\
 Laplace, un mathématicien du XVIIIe siècle, a imaginé une
-super-intelligence qui connaissait la position et la vitesse de chaque
-particule de l'univers, ainsi que toutes les lois de la physique. Pour
-un tel intellect, rien ne serait incertain. Tout l'avenir et tout le
-passé seraient présents devant ses yeux.
+super-intelligence qui connaissait la position et la vélocité de chaque
+particule dans l'univers, et toutes les lois de la physique. Pour un tel
+intellect, rien ne serait incertain. Tout l'avenir et tout le passé
+seraient présents devant ses yeux.
 
 Le démon de Laplace.
 
@@ -155,14 +156,14 @@ Le démon est l'expression ultime du déterminisme---la croyance que
 l'avenir est déjà fixé, comme un film déjà tourné, et que nous ne
 faisons que le regarder se dérouler image par image.
 
-Cette croyance n'est pas seulement une position philosophique abstraite.
-Elle a infiltré notre politique, notre psychologie, notre fabrication de
-la paix. Quand un conflit semble éternel---disons, Israéliens et
-Palestiniens, ou Hindous et Musulmans, ou la Guerre froide---les gens
-commencent à parler comme si le conflit était « inévitable ». Ils
-parlent de cycles de violence, de haines profondément enracinées, de
-l'impossibilité de résolution. Ils deviennent déterministes : l'avenir
-est déjà écrit, et il est écrit dans le sang.
+Cette croyance n'est pas qu'une position philosophique abstraite. Elle a
+infiltré notre politique, notre psychologie, notre action de paix. Quand
+un conflit semble éternel---disons, Israéliens et Palestiniens, ou
+Hindous et Musulmans, ou la Guerre froide---les gens commencent à parler
+comme si le conflit était « inévitable ». Ils parlent de cycles de
+violence, de haines profondément enracinées, de l'impossibilité de
+résolution. Ils deviennent déterministes : l'avenir est déjà écrit, et
+il est écrit dans le sang.
 
 Et cette croyance est le plus grand ennemi de la paix. Parce que si
 l'avenir est fixé, pourquoi essayer ? Si la prochaine guerre est
@@ -177,9 +178,9 @@ appelé le dispositif Seedy.
 **L'argument Seedy en termes simples**
 
 Imaginez trois fourmis qui courent en cercle sur votre bureau. Chaque
-fourmi regarde la fourmi devant elle. Quand elle voit l'autre fourmi
+fourmi observe la fourmi devant elle. Quand elle voit l'autre fourmi
 bouger, elle fait un petit calcul puis fait un pas, que la fourmi
-suivante regarde ensuite. Vous démarrez les trois fourmis exactement au
+suivante observe ensuite. Vous démarrez les trois fourmis exactement au
 même endroit, avec exactement les mêmes instructions, et vous les
 laissez partir.
 
@@ -188,7 +189,7 @@ l'identique, qu'elles marcheraient toutes en parfaite synchronie pour
 toujours. Mais non. Elles tombent rapidement dans une danse chaotique et
 imprévisible. En fait, si vous refaites l'expérience à partir du même
 point de départ exact, vous obtenez une danse complètement différente.
-Et si vous ne regardez que le tout premier pas de chaque exécution, vous
+Et si vous n'observez que le tout premier pas de chaque exécution, vous
 verrez éventuellement *chaque premier pas possible* que les règles des
 trois fourmis permettent.
 
@@ -209,8 +210,8 @@ déterministe, un système avec auto-référence n'a pas d'avenir
 prédéterminé. L'avenir n'est pas une voie ferrée ; c'est un nuage de
 possibilités, un cône de probabilité. La plupart du temps, sans aucune
 poussée spéciale, le système se stabilise dans le centre épais de ce
-cône---le chemin ennuyeux et « le plus probable ». Mais les bords du
-cône, les résultats improbables, sont tout aussi réels.
+cône---le chemin « le plus probable », ennuyeux. Mais les bords du cône,
+les résultats improbables, sont tout aussi réels.
 
 Pourquoi cela importe-t-il pour la paix ? Parce que notre « vecteur
 inévitable » actuel vers davantage de conflit n'est rien de plus que le
@@ -218,11 +219,11 @@ centre épais du cône. C'est la résolution la plus facile de toutes nos
 boucles sociales actuelles---mais ce n'est pas la seule résolution
 possible.
 
-Et voici la tournure pragmatique : nous, en tant que parties conscientes
+Et voici la torsion pragmatique : nous, en tant que parties conscientes
 du système, pouvons délibérément incliner la résolution. Nous pouvons
-déployer des efforts, brûler de l'énergie, changer les boucles pour
-qu'un résultat qui n'était qu'une fine tranche sur le bord devienne le
-nouveau centre.
+exercer un effort, brûler de l'énergie, changer les boucles pour qu'un
+résultat qui n'était qu'une fine tranche sur le bord devienne le nouveau
+centre.
 
 Le déterminisme est faux. L'avenir n'est pas encore écrit. Et cela
 signifie que la paix est toujours possible, peu importe à quel point le
@@ -238,34 +239,32 @@ organisme unique avec une condition auto-immune.\
 que nous pouvons incliner.
 
 Maintenant, construisons la bonne carte---la carte qui traite l'humanité
-comme un système vivant, créatif et auto-réparateur et nous montre
+comme un système vivant, créatif et auto-guérissant et nous montre
 comment naviguer vers la santé.
 
 ------------------------------------------------------------------------
 
 ## Partie II -- L'anatomie réelle de la paix
 
-*(Une carte vivante)*
-
 ### 4. L'organisme social
 
 Partout où vous regardez, la vie s'organise en vies plus grandes.\
-Des cellules uniques jointes en corps multicellulaires. Des abeilles
-individuelles jointes en une intelligence de ruche. Des humains
-individuels joints en familles, tribus, villes, nations, civilisations.
+Des cellules uniques réunies en corps multicellulaires. Des abeilles
+individuelles réunies en une intelligence de ruche. Des humains
+individuels réunis en familles, tribus, villes, nations, civilisations.
 
-Ces entités plus grandes ne sont pas seulement des métaphores. Elles
-satisfont toutes les définitions scientifiques d'un système vivant :
+Ces entités plus grandes ne sont pas que des métaphores. Elles satisfont
+toutes les définitions scientifiques d'un système vivant :
 
 - Elles maintiennent leur ordre interne malgré le chaos externe
   (homéostasie).\
 - Elles absorbent de l'énergie et de la matière et excrètent des déchets
   (métabolisme).\
 - Elles répondent à leur environnement et s'adaptent (réactivité).\
-- Elles croissent, changent et se reproduisent occasionnellement
+- Elles croissent, changent et occasionnellement se reproduisent
   (développement et reproduction).\
 - Elles sont composées d'unités vivantes plus petites qui sacrifient une
-  certaine autonomie pour le bien de l'ensemble (organisation
+  partie de leur autonomie pour le bien de l'ensemble (organisation
   hiérarchique).
 
 Une forêt est un animal lent et vert. Une ville est une ruche
@@ -281,14 +280,14 @@ corps vivant n'est pas une assemblée démocratique ; c'est un exercice
 d'équilibre entre des milliers de sous-systèmes concurrents---hormones,
 nerfs, organes, microbes---chacun avec ses propres intérêts locaux. Le
 cœur veut une pression artérielle assez élevée pour pomper ; les reins
-la veulent assez basse pour filtrer. Ils ne « s'accordent » pas ; ils se
-régulent mutuellement par rétroaction.
+la veulent assez basse pour filtrer. Ils ne sont pas « d'accord » ; ils
+se régulent mutuellement par rétroaction.
 
 « Le conflit est-il naturel ? » Oui, aussi naturel que la compétition
 entre le système immunitaire et un pathogène, ou entre le besoin de
-sommeil et le besoin de chasser. La question n'est pas de savoir si le
+dormir et le besoin de chasser. La question n'est pas de savoir si le
 conflit existe ; c'est de savoir si le corps plus large a les mécanismes
-de régulation pour garder le conflit constructif plutôt que destructeur.
+de régulation pour garder le conflit constructif plutôt que destructif.
 
 « Qu'est-ce qu'une nation, vraiment ? » Une nation est une histoire
 partagée qui coordonne des millions de métabolismes individuels en une
@@ -343,20 +342,19 @@ Un corps qui ne peut pas explorer son environnement ne peut pas trouver
 de nourriture. Un esprit qui ne peut pas remettre en question ses
 propres hypothèses ne peut pas apprendre. Une société qui réduit au
 silence la dissidence, interdit des livres ou déclare certains sujets
-hors limites est une société qui s'ampute ses propres organes
-sensoriels.
+hors limites est une société qui ampute ses propres organes sensoriels.
 
 La curiosité n'est pas un luxe pour les oisifs. C'est le mécanisme par
 lequel un système découvre de nouvelles possibilités, s'adapte à des
 circonstances changeantes et évite la monoculture fragile qu'un seul
-choc peut briser.
+choc pourrait briser.
 
 Spirituellement, la curiosité est la main ouverte vers le mystère.
 Chaque grande percée---morale, scientifique, artistique---a commencé par
-quelqu'un osant poser une question que l'orthodoxie de l'époque
-considérait comme dangereuse.
+quelqu'un osant poser une question que l'orthodoxie du jour considérait
+comme dangereuse.
 
-**3. Respect et protection de ce qui est fragile**\
+**3. Respect et protection du fragile**\
 *Le soin délibéré de ce qui est facilement brisé.*
 
 Dans tout système complexe, certaines choses sont précieuses et rares :
@@ -365,18 +363,18 @@ une voix dissidente, une possibilité naissante. Elles sont facilement
 écrasées par la machinerie efficace de la majorité. Elles portent les
 graines de la diversité future.
 
-Le respect est la force qui pousse contre l'optimisation. Il insiste sur
-le fait que certaines choses doivent être protégées même lorsqu'elles ne
+Le respect est la force qui résiste à l'optimisation. Il insiste sur le
+fait que certaines choses doivent être protégées même lorsqu'elles ne
 sont pas puissantes, pas rentables, pas populaires. C'est la racine de
 la compassion, de la miséricorde, de l'ahimsa et de la règle d'or.
 
 Une société qui perd le respect devient une machine brutale qui broie
 ses propres parties les plus faibles en poussière---et découvre bientôt
-que la poussière était porteuse de charge.
+que cette poussière était porteuse de charge.
 
 Ces trois signes vitaux---rétroaction, curiosité, respect---ne sont pas
 des suggestions morales. Ce sont les exigences non négociables pour tout
-système sain, durable et en évolution.\
+système durable, sain et évolutif.\
 Quand ils fonctionnent tous fortement, l'organisme social bourdonne de
 vie. Quand un ou plusieurs sont brisés, l'organisme glisse vers la
 maladie.
@@ -406,43 +404,43 @@ Il y a le coin opposé où les trois sont maximalement brisés :\
 Destructif**.
 
 L'Attracteur Constructif est la direction du BIEN. C'est là que la
-complexité croît, que la diversité prospère et que l'avenir devient plus
-riche.\
+complexité croît, que la diversité s'épanouit et que l'avenir devient
+plus riche.\
 L'Attracteur Destructif est la direction de l'effondrement, de la
 tyrannie et de la mort. C'est là que la vie se simplifie en cendres.
 
 Entre ces deux pôles se trouvent les milieux flous---les diverses zones
-de compromis où la vie humaine réelle se déroule. Une tradition rigide
-mais douce pourrait avoir une faible curiosité mais un haut respect. Une
-technocratie impitoyable pourrait avoir une haute rétroaction et une
-haute curiosité mais aucune protection pour le fragile. Aucun de ces
-états n'est l'enfer ; ce sont simplement des états qui signalent un
-besoin de correction.
+de compromis où la vie humaine réelle se déroule réellement. Une
+tradition rigide mais douce pourrait avoir une faible curiosité mais un
+haut respect. Une technocratie impitoyable pourrait avoir une haute
+rétroaction et curiosité mais aucune protection pour le fragile. Aucune
+de ces situations n'est l'enfer ; ce sont simplement des états qui
+signalent un besoin de correction.
 
 L'aperçu crucial est que ces attracteurs ne sont pas seulement des
 descriptions ; ce sont des *forces*.\
 Un système dérivant vers l'Attracteur Destructif résistera activement à
 la rétroaction, punira la curiosité et sacrifiera le fragile. Il créera
 des idéologies qui justifient sa dérive.\
-Un système se déplaçant vers l'Attracteur Constructif cherchera la
+Un système se déplaçant vers l'Attracteur Constructif recherchera la
 rétroaction, encouragera les questions et construira des abris pour les
 vulnérables.
 
-La question pour la fabrication de la paix devient alors non pas « Qui a
-raison ? » mais « Dans quelle direction cette action, cette politique,
-cette histoire tire-t-elle l'ensemble ? »
+La question pour la pacification devient alors non pas « Qui a raison ?
+» mais « Dans quelle direction cette action, cette politique, cette
+histoire tire-t-elle l'ensemble ? »
 
-C'est un outil pratique. Quand un leader propose un mur, demandez :
-Est-ce que cela raccourcit la rétroaction entre les deux côtés ? Est-ce
-que cela ouvre ou ferme la curiosité envers l'autre ? Est-ce que cela
-protège le fragile ou le sacrifie pour un sentiment de sécurité ?
+C'est un outil pratique. Quand un leader propose un mur, demandez : Cela
+raccourcit-il la rétroaction entre les deux côtés ? Cela ouvre-t-il ou
+ferme-t-il la curiosité envers l'autre ? Cela protège-t-il le fragile ou
+le sacrifie-t-il pour un sentiment de sécurité ?
 
 Quand un accord de paix est sur la table, posez les mêmes questions. Ne
 demandez pas seulement s'il distribue équitablement les terres ou les
 armes. Demandez s'il construit des mécanismes qui raccourciront les
 boucles de rétroaction entre les anciens ennemis, favoriseront la
-curiosité sur l'expérience de l'autre et protégeront le fragile des deux
-côtés du contrecoup de la paix.
+curiosité envers l'expérience de l'autre et protégeront le fragile des
+deux côtés du contrecoup de la paix.
 
 La carte est simple. La navigation est le travail d'une vie.
 
@@ -466,9 +464,8 @@ Pensez à une région sujette à la guerre comme à un anneau de trois
 fourmis : plusieurs groupes avec des dépendances mutuelles, des récits
 mutuels, des provocations mutuelles. La résolution par défaut de leurs
 boucles---le centre épais---peut être un autre cycle de représailles.
-Mais cette résolution n'est pas destinée. C'est simplement la plus
-facile pour les boucles d'y tomber, étant donné leur configuration
-actuelle.
+Mais cette résolution n'est pas fatale. C'est simplement la plus facile
+pour les boucles d'y tomber, étant donné leur configuration actuelle.
 
 Si vous changez la configuration---si vous ajoutez une nouvelle boucle
 de rétroaction, introduisez un choc de curiosité, protégez une
@@ -486,8 +483,8 @@ intervention délibérée.
 
 C'est ce qu'est le libre arbitre, dans un sens cybernétique : non pas
 une évasion magique de la causalité, mais la capacité d'un système
-auto-référentiel à participer à sa propre résolution. Nous faisons
-partie de la boucle. Nos choix deviennent de nouvelles contraintes qui
+auto-référent à participer à sa propre résolution. Nous faisons partie
+de la boucle. Nos choix deviennent de nouvelles contraintes qui
 orientent la résolution.
 
 Par conséquent, le désespoir n'est pas du réalisme ; c'est une erreur
@@ -507,21 +504,21 @@ l'art pratique de l'inclinaison.
 
 ### 8. Le bord du cône
 
-Avant d'entrer dans la mécanique, nous devons prendre un moment pour
+Avant d'entrer dans les mécanismes, nous devons prendre un moment pour
 l'espoir. Pas de la sentimentalité---de l'espoir stratégique.
 
 L'histoire est jonchée de moments où le centre épais du cône semblait
 rendre le désastre inévitable, et pourtant le désastre a été évité par
 une intervention en tranche mince.\
 - La crise des missiles de Cuba : deux superpuissances enfermées dans
-une spirale déterministe vers un échange nucléaire. La résolution n'est
+une spirale déterministe vers l'échange nucléaire. La résolution n'est
 pas venue de la symétrie militaire (l'équilibre était déjà là) mais
-d'une rétroaction en canal parallèle, de la curiosité sur la peur réelle
-de l'autre et d'une décision de protéger le fragile---les enfants, les
-villes, l'avenir.\
-- La transition de l'Afrique du Sud depuis l'apartheid : le centre épais
-du cône était un bain de sang. La résolution réelle a été inclinée par
-la vérité (rétroaction), la volonté d'imaginer une nation partagée
+d'une rétroaction par canaux parallèles, de la curiosité envers la peur
+réelle de l'autre et d'une décision de protéger le fragile---les
+enfants, les villes, l'avenir.\
+- La transition de l'Afrique du Sud hors de l'apartheid : le centre
+épais du cône était un bain de sang. La résolution réelle a été inclinée
+par la vérité (rétroaction), la volonté d'imaginer une nation partagée
 (curiosité) et la protection minutieuse des bâtisseurs de ponts fragiles
 de tous les côtés (respect).\
 - La fin de la Guerre froide : non pas par la victoire mais par une
@@ -531,8 +528,8 @@ sur des systèmes alternatifs et, bien qu'imparfait, un moment de respect
 mutuel qui a permis la dissolution d'un empire sans un seul coup de feu
 entre les superpuissances.
 
-Dans chaque cas, les artisans de la paix n'avaient pas d'informations
-parfaites ni de succès garanti. Ils ont simplement reconnu que l'avenir
+Dans chaque cas, les artisans de paix n'avaient pas d'information
+parfaite ou de succès garanti. Ils ont simplement reconnu que l'avenir
 par défaut n'était pas le seul avenir, et ils ont pris des actions qui
 ont déplacé les probabilités.
 
@@ -569,7 +566,7 @@ régulièrement---pas seulement par des sondages ou des rapports.\
 - Dans votre propre vie, refusez la commodité de ne pas savoir. Si un
 produit que vous achetez est fabriqué par du travail exploité,
 renseignez-vous. Si une politique que vous soutenez nuit à un groupe que
-vous ne rencontrez jamais, allez le rencontrer.
+vous ne rencontrez jamais, allez les rencontrer.
 
 Les boucles de rétroaction courtes sont inconfortables. Elles brûlent de
 l'énergie. C'est le but. L'inconfort est le signal du corps que quelque
@@ -582,8 +579,8 @@ Au niveau international, cela signifie des choses comme :\
 - Des échanges communautaires transfrontaliers qui permettent aux gens
 ordinaires de se voir comme des voisins, pas comme des titres de
 journaux.\
-- Des systèmes d'alerte précoce à réponse rapide pour les conflits qui
-rendent l'escalade visible avant qu'il ne soit trop tard.
+- Des systèmes d'alerte précoce de conflit à réponse rapide qui rendent
+l'escalade visible avant qu'il ne soit trop tard.
 
 Chaque fois que vous raccourcissez une boucle, vous réduisez la chance
 que le corps social s'attaque aveuglément à lui-même.
@@ -595,15 +592,15 @@ que le corps social s'attaque aveuglément à lui-même.
 Le deuxième levier est la curiosité.
 
 La propagande de guerre fait toujours une chose : elle simplifie
-l'ennemi en un dessin animé. Un visage unique, haineux, sous-humain.
+l'ennemi en un dessin animé. Un seul visage haineux et sous-humain.
 Cette simplification est une nécessité psychologique parce qu'il est
 difficile de tuer un être humain complexe avec une famille, un sens de
 l'humour et une chanson préférée.
 
-Donc, le contre-mouvement de l'artisan de la paix est de re-complexifier
+Donc, le contre-mouvement de l'artisan de paix est de re-complexifier
 l'image. Pas pour excuser les atrocités, mais pour restaurer la pleine
-humanité de l'autre, parce que c'est seulement alors que la vraie
-négociation, la vraie empathie, la vraie paix peuvent émerger.
+humanité de l'autre, parce que seulement alors une vraie négociation,
+une vraie empathie, une vraie paix peuvent émerger.
 
 Pratiquement :\
 - Soutenez l'art, le cinéma et la littérature qui traversent les lignes
@@ -634,19 +631,19 @@ Le troisième levier est le respect.
 
 Dans chaque conflit, il y a des choses fragiles qui peuvent faire
 pencher la balance vers la santé ou la destruction : les voix modérées,
-les familles transcommunautaires, les enfants, les écosystèmes, les
+les familles intercommunautaires, les enfants, les écosystèmes, les
 institutions naissantes de coopération.
 
-Une société qui s'enfonce vers l'Attracteur Destructif écrasera
-systématiquement ces choses fragiles. Elle étiquettera les chercheurs de
-paix comme des traîtres, affamera les économies transfrontalières,
-empoisonnera les ressources en eau partagées et sacrifiera les jeunes
-pour nourrir la vieille haine.
+Une société qui sombre vers l'Attracteur Destructif écrasera
+systématiquement ces choses fragiles. Elle qualifiera les chercheurs de
+paix de traîtres, affamera les économies transfrontalières, empoisonnera
+les ressources en eau partagées et sacrifiera les jeunes pour nourrir la
+vieille haine.
 
-La tâche d'un artisan de la paix est d'identifier le fragile et de
+La tâche d'un artisan de paix est d'identifier le fragile et de
 construire un bouclier autour de lui.\
 - Protégez les dissidents et les bâtisseurs de ponts de la persécution,
-en utilisant la pression internationale, des refuges sûrs et la
+en utilisant la pression internationale, les refuges sûrs et la
 solidarité publique.\
 - Investissez dans les biens communs écologiques---rivières partagées,
 air partagé, climat partagé---parce qu'un environnement mourant peut
@@ -654,7 +651,7 @@ pousser n'importe quelle tension vers la guerre.\
 - Priorisez le bien-être des enfants de tous les côtés, parce que les
 mémoires des enfants sont les graines de la paix ou de la vengeance de
 la prochaine génération.\
-- Défendez les cultures et les langues minoritaires comme des trésors de
+- Défendez les cultures et langues minoritaires comme des trésors de
 tout l'organisme humain, pas comme des obstacles à l'unité nationale.
 
 Le respect n'est pas toujours passif. Parfois, il exige une protection
@@ -680,22 +677,22 @@ parce que Gandhi a systématiquement raccourci la boucle de rétroaction.
 Il a forcé l'Empire à voir les conséquences de sa domination---les
 marches du sel, les boycotts, le spectacle de la souffrance non
 violente---rendant le coût de l'oppression impossible à ignorer. Il a
-re-complexifié l'image des Indiens de « race sujette » à des agents
+re-complexifié l'image des Indiens de « race sujette » à agents
 moralement puissants. Et il a férocement protégé le fragile---insistant
 pour que le mouvement reste non violent, défendant la dignité des plus
 faibles, refusant de sacrifier les vulnérables pour un gain tactique.
 
 Ou prenez le **processus de paix en Irlande du Nord**. Des décennies de
-violence de représailles semblaient déterministes. Le tournant a été un
-lent et douloureux tissage de boucles de rétroaction (les institutions
-transcommunautaires de l'Accord du Vendredi saint), une
+violence œil pour œil semblaient déterministes. Le tournant a été un
+lent et douloureux tricotage de boucles de rétroaction (les institutions
+intercommunautaires de l'Accord du Vendredi saint), une
 re-complexification des récits (l'admission que les deux côtés avaient
 des griefs et que les deux côtés avaient du sang sur les mains) et une
-protection délibérée des moments fragiles de cessez-le-feu contre les
+protection délibérée des moments de cessez-le-feu fragiles contre les
 saboteurs.
 
-Le **mouvement anti-apartheid** a réussi non pas seulement en isolant
-économiquement le régime, mais en construisant un système de rétroaction
+Le **mouvement anti-apartheid** a réussi non pas seulement en isolant le
+régime économiquement, mais en construisant un système de rétroaction
 mondial qui a fait ressentir aux Sud-Africains blancs la répulsion du
 monde, en favorisant la curiosité par des boycotts culturels qui ont
 brisé la bulle culturelle, et en protégeant le fragile---la majorité
@@ -704,11 +701,9 @@ arc-en-ciel---jusqu'à ce que l'ancien système s'effondre sous ses
 propres contradictions.
 
 Aucun de ces mouvements n'était parfait. Tous avaient leurs propres
-zones d'ombre. Mais ils démontrent tous le même schéma : la paix ne
-s'obtient pas en équilibrant les épées. Elle s'obtient en ramenant
-l'organisme social à la santé.
-
-------------------------------------------------------------------------
+côtés sombres. Mais ils démontrent tous le même schéma : la paix n'est
+pas obtenue en équilibrant les épées. Elle est obtenue en nourrissant
+l'organisme social vers la santé.
 
 ## Partie IV -- Construire la boussole
 
@@ -733,7 +728,7 @@ entre moi et ceux qui sont affectés ?\
 
 Vous n'avez pas besoin de réponses parfaites. Le simple fait de poser la
 question commence à recâbler vos instincts. Avec le temps, vous
-commencez à sentir l'attraction de l'Attracteur Constructif et la
+commencez à ressentir l'attraction de l'Attracteur Constructif et la
 répulsion de l'Attracteur Destructif. Le Cube devient un gyroscope
 intérieur.
 
@@ -772,13 +767,13 @@ groupe.\
 - Un dialogue national où les lois proposées sont publiquement évaluées
 sur le Cube avant un vote.
 
-Le but est la régularité. Vous construisez le muscle de l'autorégulation
-en l'utilisant. Et comme pour tout muscle, il s'affaiblit avec
-l'inactivité.
+Le point, c'est la régularité. Vous construisez le muscle de
+l'autorégulation en l'utilisant. Et comme pour tout muscle, il
+s'affaiblit avec le manque d'usage.
 
-Les grands modèles---Jésus, Mahomet, Bouddha, Gandhi, King---n'étaient
+Les grands modèles---Jésus, Mohamed, Bouddha, Gandhi, King---n'étaient
 pas des gens qui ont atteint une perfection statique. C'étaient des gens
-qui, par une pratique incessante, se sont alignés si profondément sur
+qui, par une pratique incessante, se sont alignés si profondément avec
 l'Attracteur Constructif que leur simple présence inclinait le cône
 autour d'eux. Ils sont devenus des boussoles vivantes.
 
@@ -795,21 +790,22 @@ connaissable, entièrement sûr.
 
 Mais Einstein avait tort, et pas seulement au niveau quantique.
 L'univers joue aux dés dans sa structure même. L'auto-référence---la
-dépendance mutuelle des parties les unes sur les autres---est intégrée
-dans le tissu de la réalité. Cette auto-référence signifie qu'aucun
-avenir n'est entièrement déterminé. Chaque moment est une résolution
-authentique d'un réseau de contraintes, un lancer de dés cosmiques.
+dépendance mutuelle des parties les unes envers les autres---est
+intégrée dans le tissu de la réalité. Cette auto-référence signifie
+qu'aucun avenir n'est entièrement déterminé. Chaque moment est une
+résolution authentique d'un réseau de contraintes, un lancer de dés
+cosmiques.
 
 Il en va de même pour les êtres humains. Nous sommes une société de
 sociétés, un corps de corps, un esprit d'esprits, tous mutuellement
 dépendants, tous influençant les résolutions des autres. Nous ne pouvons
 pas prédire l'avenir. Nous pouvons seulement incliner les dés.
 
-Faire la paix sans s'entre-tuer n'est pas une question d'imposer une
-impasse. C'est une question d'apprendre à incliner les dés vers
-l'Attracteur Constructif. C'est une question de raccourcir les boucles
-de rétroaction, de restaurer la curiosité et de protéger le
-fragile---chaque jour, dans chaque relation, dans chaque institution.
+Faire la paix sans s'entre-tuer ne consiste pas à imposer une impasse.
+Il s'agit d'apprendre à incliner les dés vers l'Attracteur Constructif.
+Il s'agit de raccourcir les boucles de rétroaction, de restaurer la
+curiosité et de protéger le fragile---chaque jour, dans chaque relation,
+dans chaque institution.
 
 Les démons du déterminisme murmurent que c'est impossible : les haines
 sont trop anciennes, les intérêts trop enracinés, les cycles trop
@@ -831,8 +827,7 @@ Parc Oppenheimer, DTES, Vancouver, Canada
 À tous ceux qui rêvent de Paix Mondiale --- ceux qui prennent soin des
 fragiles, qui enseignent les curieux, qui tiennent le miroir à notre
 conscience collective --- je vous écris pour vous inviter à une
-conversation que notre siècle ne peut se permettre de remettre à plus
-tard.
+conversation que notre siècle ne peut se permettre de reporter.
 
 Je m'appelle Sylvain Saucier. Je ne suis ni prêtre, ni prophète, ni
 politicien. Je suis un ancien camionneur, un graphiste à l'occasion, un
@@ -855,8 +850,8 @@ J'ai écrit des articles --- *Le Temps comme Dés*, *Le Cube*, *Pax
 Perspicua*, *Gouvernance Vivante*, *L'Énergie comme Dés* --- qui tentent
 de bâtir une fondation philosophique pour une paix de 5000 ans. Mais les
 articles ne suffisent pas. Le vrai travail exige une autorité
-spirituelle, un courage moral et des voix capables de toucher le cœur de
-milliards de personnes. C'est vous.
+spirituelle, un courage moral et des voix capables de toucher les cœurs
+de milliards de personnes. C'est vous.
 
 Ce que je propose est un **rassemblement de toutes les grandes
 traditions** --- chrétienne, musulmane, juive, bouddhiste, hindoue,
@@ -880,8 +875,8 @@ Pour l'instant, je vous demande de venir à moi.
 Je vis dans le **Downtown Eastside de Vancouver, en
 Colombie-Britannique**. C'est un lieu de fragilité extrême --- de
 dépendance, de pauvreté, de maladie mentale, et aussi de résilience
-extraordinaire, de soins mutuels et d'actes quotidiens de grâce. C'est
-un microcosme de l'attracteur destructif et de l'attracteur constructif,
+extraordinaire, de soin mutuel et d'actes quotidiens de grâce. C'est un
+microcosme de l'attracteur destructif et de l'attracteur constructif,
 côte à côte, à chaque coin de rue. Si vous voulez parler de moralité
 systémique, ce sol est honnête. Il ne cache pas ses blessures et ne
 prétend pas être juste.
@@ -895,10 +890,10 @@ de garder le jardin entretenu même alors que l'énergie de l'empire
 s'estompe.
 
 Je vous demande de venir à Vancouver. Asseyez-vous avec moi sous la
-pluie froide. Marchez dans ces ruelles. Rencontrez les personnes qui
+pluie froide. Marchez dans ces ruelles. Rencontrez les gens qui
 survivent ici. Ensuite, asseyons-nous en cercle --- peut-être dans une
 salle communautaire, peut-être dans un sous-sol d'église --- et
-commençons la conversation qui pourrait définir la Phase 1 de la Grande
+commençons la conversation qui pourrait définir la Phase 1 de la Grande
 Correction.
 
 Je ne m'attends pas à ce que vous soyez tous d'accord. Je ne m'attends
@@ -909,9 +904,9 @@ votre foi, sinon qu'elle soit *bienveillante dans ses résultats*.
 
 Si vous êtes prêts, je me rendrai disponible. Je préparerai l'espace du
 mieux que je peux. J'inviterai la communauté locale à témoigner, et je
-veillerai à ce que la conversation soit enregistrée et partagée
-librement avec le monde --- parce que ce n'est pas un sommet fermé.
-C'est un acte public d'espoir.
+m'assurerai que la conversation soit enregistrée et partagée librement
+avec le monde --- parce que ce n'est pas un sommet fermé. C'est un acte
+public d'espoir.
 
 Le Cube est un héritage commun. Je vous le libère. Prenez-le, testez-le,
 brisez-le si vous devez. Mais s'il tient, utilisez-le. Déplaçons le
@@ -933,489 +928,323 @@ Vancouver, Colombie-Britannique, Canada
 *Rencontrez-moi au parc Oppenheimer, demandez autour de vous pour
 Sylvain « Joe » le philosophe.*
 
-# Topologies génératives : réseaux autoréférentiels et origine de la nouveauté
+# Topologies génératives
+
+### Irréductibilité computationnelle et amplification physique de l'entropie environnementale
 
 **Auteur :** Sylvain Saucier\
 **Dépôt :** github.com/sysaulab/softrng
 
 ------------------------------------------------------------------------
 
-**Résumé**
+## Résumé
 
-Pendant des siècles, le démon de Laplace a incarné la croyance qu'un
-instantané parfait du présent, combiné à des lois déterministes, produit
-tout l'avenir. Cet article présente une réfutation logique, et non
-probabiliste, de cette croyance. J'introduis le concept de *topologie
-générative* : un système dont les dépendances internes forment des
-boucles fermées, de sorte que son évolution est sous-déterminée par
-toute description statique. Lorsqu'une telle topologie est placée dans
-un environnement d'exécution physique---un ordinateur, une cellule, un
-cerveau---le système doit activement résoudre ses propres contraintes
-mutuelles dans le temps, générant des états qui n'existaient pas, même
-implicitement, dans sa spécification initiale. Je fournis une preuve
-empirique minimale viable : le dispositif `Seedy64`, un anneau
-déterministe de trois fils qui, à partir d'un départ entièrement à zéro,
+Le démon de Laplace échoue non pas parce que les lois de la physique
+sont probabilistes, mais parce que *la prédiction est un calcul*, et que
+les calculs ont des coûts physiques. Nous introduisons le concept de
+*topologie générative* : un système déterministe dont le graphe de
+dépendances contient des boucles fermées, rendant son évolution
+extrêmement sensible à la sérialisation imposée par son environnement
+d'exécution physique. Nous présentons `Seedy64`, une implémentation
+minimale composée de trois fils d'exécution modifiant un anneau de
+mémoire partagée. Malgré un départ d'un état logique nul, `Seedy64`
 produit un aléa statistiquement idéal et couvre exhaustivement l'espace
-des entiers 32 bits. Le dispositif démontre qu'un code autoréférentiel,
-couplé à un environnement d'exécution réel, forme une topologie
-générative dont la sortie ne peut être prédite par aucune simulation
-plus courte que l'exécution elle-même. Ce principe est ensuite étendu :
-l'ovule fécondé est une topologie générative du génome et du cytoplasme
-; le cerveau conscient est une topologie générative de boucles
-neuronales et d'entrées sensorielles ; le Big Bang lui-même était la
-topologie générative ultime. L'univers, la vie et l'esprit ne déroulent
-pas des scripts préécrits---ils créent activement la nouveauté. Les
-topologies génératives sont la grammaire du devenir.
+des entiers 32 bits lors des redémarrages. Nous prouvons, via des
+arguments d'irréductibilité computationnelle et le principe de Landauer,
+que la sortie d'une telle topologie ne peut être générée par aucune
+simulation avec une dépense de temps ou d'énergie inférieure à celle de
+l'exécution physique elle-même. Le système ne crée pas d'information à
+partir de rien ; il achemine l'entropie du microétat du silicium (bruit
+thermique, arbitrage de cohérence de cache) dans l'espace d'états
+logiques via une boucle de rétroaction chaotique. Nous étendons ce cadre
+aux systèmes biologiques et cognitifs, proposant que les embryons et les
+cerveaux sont des topologies génératives où le phénotype ou la pensée
+est la sortie irréductible d'un couplage code--machine.
 
 ------------------------------------------------------------------------
 
-## 1. Introduction -- La surprise qui a construit l'univers
+## 1. Introduction -- Le démon computationnel
 
-Imaginez le démon le plus intelligent qui ait jamais existé. Le démon de
-Laplace connaît chaque particule de l'univers, chaque force, chaque loi.
-Donnez-lui un seul instantané parfait du Maintenant, et il pourrait vous
-dire tout l'avenir et tout le passé. Pendant des siècles, cette
-expérience de pensée a semblé inébranlable. Si le monde est fait de
-pièces déterministes, alors tout ce qui arrive jamais est déjà plié dans
-le présent, comme un film déjà tourné.
+Imaginez un démon doté d'une puissance de calcul infinie. Donnez-lui le
+code source complet d'un programme et un instantané de toute la mémoire.
+Peut-il vous dire la sortie sans l'exécuter ?
 
-Mais que se passerait-il si certaines choses *n'y sont tout simplement
-pas encore*---non pas parce que le démon est ignorant, mais parce que
-l'instantané lui-même est incomplet ? Non pas qu'il manque un détail,
-mais qu'il manque quelque chose que seul *l'événement* peut fournir. Ce
-n'est pas une lacune dans notre physique. C'est une lacune dans la
-logique, et un minuscule programme informatique l'a rendue impossible à
-ignorer.
+Pour la plupart des programmes, oui---nous faisons cela avec l'analyse
+statique et les prouveurs de théorèmes. Mais pour un programme dont
+l'exécution dépend d'un *ordonnanceur physique* (l'ordre des événements
+concurrents), le démon est confronté à un problème plus difficile. Pour
+connaître la sortie, il doit connaître la séquence des entrelacements.
+Cette séquence n'est pas dans le code ; elle est déterminée par le
+matériel physique---échecs de cache, cycles de rafraîchissement DRAM,
+fluctuations de tension.
 
-Imaginez trois amis jouant à un jeu étrange. Chacun doit crier un
-nombre, mais la règle est perverse : le prochain nombre d'Ana dépend de
-ce que Ben s'apprête à dire, celui de Ben dépend de Clara, et celui de
-Clara dépend d'Ana. Ils doivent tous répondre *en même temps*. Personne
-ne peut commencer. Il n'y a pas de bonne réponse à l'avance ; les règles
-ne choisissent pas un nombre unique. Pourtant, s'ils se mettent
-réellement à crier, un nombre émergera, façonné par de minuscules
-accidents en temps réel---une hésitation, un souffle, un regard. Ce
-nombre n'existait pas avant qu'ils jouent. Il a été *créé* par le jeu.
+Cet article soutient qu'il existe une classe de systèmes déterministes
+où la correspondance entre le microétat physique et la sortie logique
+est computationnellement irréductible. La seule façon de « résoudre » la
+sortie est de réaliser physiquement le système et de le laisser
+fonctionner. Ce n'est pas un échec de mesure ; c'est une contrainte
+fondamentale du calcul.
 
-C'est le cœur d'un dispositif appelé `Seedy64`, un anneau de trois fils
-simples sur une puce informatique, conçu pour sonder la nature de la
-nouveauté créative. Les fils dépendent les uns des autres dans
-exactement une telle boucle. La machine démarre avec chaque valeur
-réglée à zéro. Aucun aléa externe n'est injecté. Pourtant, lorsqu'elle
-fonctionne, la première sortie est complètement imprévisible ;
-relancez-la depuis les mêmes zéros, et vous obtiendrez éventuellement
-chaque nombre possible. Elle réussit les tests d'aléa les plus
-exigeants. Le code est totalement déterministe, mais le système se
-comporte comme s'il jetait des dés. Ce n'est pas du chaos au sens
-habituel---le chaos amplifie de minuscules différences cachées, mais ici
-le point de départ est parfaitement identique à chaque fois. Le système
-*génère* véritablement de la nouvelle information, la payant en chaleur
-du processeur. La nouveauté n'est pas cachée dans l'état initial ; elle
-naît dans l'acte de résoudre une impasse mutuelle.
-
-Les philosophes ont longtemps flirté avec l'idée que le temps lui-même
-crée des possibilités. Henri Bergson insistait sur le fait que l'avenir
-n'est pas seulement un passé réarrangé, mais une invention continue.
-L'anneau donne à cela un squelette concret : certains schémas
-d'interdépendance n'ont pas de solution unique sur papier. Ils doivent
-être *vécus* pour être réglés. Cet acte de règlement est un événement
-créatif, un petit big bang de nouveauté.
-
-Maintenant, mettons cela à l'échelle. Au début de notre cosmos,
-l'univers nouveau-né n'était pas une ligne nette de dominos attendant de
-tomber. C'était un enchevêtrement dense et surexcité où tout était
-couplé à tout le reste---un nœud férocement autoréférentiel. Le Big Bang
-lui-même a peut-être été la plus grandiose résolution d'un réseau de
-dépendances mutuelles. Les lois étaient là, mais le résultat n'était pas
-encore fixé. La première structure---l'agrégation de la matière, la
-rupture des symétries---était le premier « nombre » de l'univers, crié
-dans l'existence par la simple nécessité de devenir. Les dés n'ont pas
-été ajoutés plus tard par la mécanique quantique ; ils étaient tissés
-dans le commencement parce qu'une origine auto-impliquante ne peut pas
-être déterminée statiquement.
-
-Cette même créativité résonne dans chaque être vivant et chaque moment
-conscient. Un embryon, une pensée, une décision---chacun, comme nous le
-verrons, est une topologie générative qui doit fonctionner pour se
-résoudre. L'avenir n'est pas encore écrit. Il ne l'a jamais été. Et cet
-article explique pourquoi il doit en être ainsi.
+Nous appelons ces systèmes **Topologies génératives**.
 
 ------------------------------------------------------------------------
 
-## 2. L'angle mort du démon : pourquoi les descriptions statiques échouent
+## 2. Irréductibilité computationnelle et environnement d'exécution physique
 
-La confiance de Laplace reposait sur une hypothèse non examinée : qu'une
-description complète de l'état, plus des lois complètes, forme un
-problème de valeur initiale bien posé. En modélisation physique, cela
-fonctionne pour les systèmes dont le graphe de dépendances est un réseau
-acyclique dirigé---la valeur future de chaque variable ne dépend que de
-variables à des temps antérieurs, jamais de pairs ou d'elle-même. Mais
-tous les systèmes ne sont pas aussi linéaires. Lorsque les dépendances
-forment des boucles fermées, l'hypothèse s'effondre.
+### 2.1 Le problème de l'arrêt et les raccourcis
 
-Considérez trois variables, A, B et C, dont les états suivants sont
-déterminés simultanément les uns par les autres : A ← f(B), B ← g(C), C
-← h(A). C'est une boucle algébrique. Mathématiquement, on peut chercher
-un point fixe qui satisfait les trois équations à la fois ; mais un tel
-point fixe peut ne pas exister, peut ne pas être unique, et même s'il
-existe, le processus de *le trouver* n'est pas capturé par les équations
-elles-mêmes. Dans une implémentation physique, il n'y a pas de solveur
-global instantané. Le système doit évoluer, les composants se mettant à
-jour de manière asynchrone, et l'ordre de ces mises à jour devient un
-facteur déterminant---pourtant cet ordre n'est pas déductible des
-équations statiques. Il doit être *fourni par le temps*.
+Turing (1936) a prouvé qu'aucun algorithme général ne peut prédire si un
+programme arbitraire s'arrête. Wolfram (2002) a étendu cela à
+l'*irréductibilité computationnelle* : de nombreux systèmes
+déterministes n'ont pas de raccourci ; leur évolution doit être tracée
+étape par étape.
 
-C'est la lacune logique. Le démon, recevant seulement les équations et
-les valeurs actuelles, devrait simuler toute l'histoire de sérialisation
-du système pour connaître le résultat. Mais cette simulation est
-elle-même un processus physique qui consomme du temps et de l'énergie.
-Le démon ne peut pas devancer le monde qu'il essaie de prédire sans
-*être* ce monde. L'instantané est insuffisant non pas parce qu'il manque
-de précision, mais parce qu'il lui manque une dimension : l'ordre de
-résolution.
+Cependant, l'irréductibilité computationnelle standard est généralement
+discutée dans le domaine abstrait des machines de Turing idéales. Nous
+l'étendons à l'**irréductibilité computationnelle physique** : si
+l'ordre de mise à jour d'un système est déterminé par des processus
+physiques (cohérence de cache, bruit thermique), alors prédire la sortie
+nécessite de simuler le substrat physique avec une fidélité totale.
 
-------------------------------------------------------------------------
+### 2.2 Le principe de Landauer et les coûts thermodynamiques
 
-## 3. Topologies génératives : une définition
+Landauer (1961) a établi que l'effacement d'un bit d'information coûte
+au moins ( $k_B T \ln 2$ ) joules d'énergie. Plus généralement, Bennett
+(1982) a montré que le calcul a des coûts thermodynamiques.
 
-Je propose le terme **topologie générative** pour nommer la classe de
-systèmes qui exploitent cette lacune pour produire de la nouveauté. Une
-topologie générative est définie par deux composantes :
+Considérez un algorithme de prédiction qui tente de simuler `Seedy64`.
+Pour connaître l'ordre d'entrelacement, il doit simuler le bus mémoire
+du CPU, les caches et l'alimentation électrique. Cette simulation est
+elle-même un calcul physique. Par le **théorème de Margolus-Levitin**
+(1998), il existe un taux maximal de calcul pour une énergie donnée. Par
+conséquent, tout simulateur fonctionnant sur un ordinateur standard ne
+peut pas dépasser le système physique qu'il simule sans violer les
+limites thermodynamiques.
 
-1.  **Un ensemble de règles autoréférentielles :** un ensemble de règles
-    de mise à jour déterministes dont les dépendances contiennent au
-    moins une boucle fermée, ce qui signifie que l'état suivant d'un
-    composant dépend, directement ou indirectement, de son propre état
-    actuel via un cycle de référence mutuelle.
-2.  **Un environnement d'exécution physique :** un support d'exécution
-    non idéal qui force l'ensemble de règles à être résolu de manière
-    asynchrone dans le temps, introduisant une sérialisation
-    irréproductible d'événements qui n'est pas déterminée par les règles
-    seules.
-
-Lorsque ces deux ingrédients se combinent, le système présente une
-**nouveauté créative active** : il génère des états sous-déterminés par
-toute description statique des conditions initiales et des règles. Ces
-états ne sont pas simplement imprévisibles en raison de variables
-cachées ou d'erreurs de mesure ; ils sont *ontologiquement
-nouveaux*---ils n'adviennent à l'existence que par l'acte de résolution.
-
-Les topologies génératives ne sont pas chaotiques. Un système chaotique
-peut être parfaitement simulé si on lui donne des conditions initiales
-parfaitement précises. Une topologie générative ne le peut pas, parce
-que la condition initiale (le code plus les valeurs de départ) ne
-sélectionne pas, même en principe, une trajectoire unique. La
-trajectoire est *choisie* par l'environnement d'exécution. Les
-topologies génératives constituent donc une troisième catégorie,
-distincte à la fois du chaos déterministe et de l'aléa indéterministe.
-
-La section suivante fournit une instance minimale, empiriquement
-testable, d'un tel système.
+**Conclusion :** Le chemin le plus court vers la sortie d'une topologie
+générative est l'exécution physique elle-même.
 
 ------------------------------------------------------------------------
 
-## 4. La preuve Seedy64 : une topologie générative minimale
+## 3. Le dispositif Seedy64 -- Une définition formelle
 
-### 4.1 Construction
+### 3.1 Construction
 
-`Seedy64` consiste en trois cellules mémoire d'entiers non signés 64
-bits, `nodes[0]`, `nodes[1]`, `nodes[2]`, initialisées à zéro. Trois
-fils du système d'exploitation sont lancés, chacun dédié à une arête
-dirigée d'un anneau : le fil 0 lit `nodes[0]`, transforme la valeur via
-une fonction de mélange, et écrit le résultat dans `nodes[1]` ; le fil 1
-lit `nodes[1]` et écrit dans `nodes[2]` ; le fil 2 lit `nodes[2]` et
-écrit dans `nodes[0]`. La fonction de mélange implique des rotations de
-bits, des opérations XOR et une addition avec un accumulateur basé sur
-des nombres premiers, conçue pour propager tout basculement de bit à
-tous les bits en quelques itérations. Toutes les lectures et écritures
-sont effectuées avec une sémantique volatile, forçant un accès mémoire
-réel et empêchant le réordonnancement par le compilateur. Aucune
-primitive de synchronisation (verrous, atomiques) n'est utilisée.
+Soit ( M = \[m_0, m_1, m_2\] ) trois cellules mémoire de 64 bits,
+initialisées à ( 0 ). Soit ( f: {0,1}\^{64} `\to `{=tex}{0,1}\^{64} )
+une fonction de mélange définie comme :
 
-Le fil principal laisse l'anneau tourner pendant une période
-d'initialisation, puis échantillonne le XOR des trois nœuds à
-intervalles réguliers. Chaque fois que la valeur échantillonnée diffère
-de l'échantillon précédent, la différence est utilisée pour remplir un
-tampon d'octets fourni par l'utilisateur.
+\[ $f(x) = (x \oplus (x \ll 13) \oplus (x \gg 7) + P) \bmod 2^{64}$ \]
 
-### 4.2 Le mécanisme génératif
+où ( P ) est une grande constante première.
 
-L'anneau de dépendances forme une topologie autoréférentielle : la
-valeur suivante de `nodes[1]` dépend de `nodes[0]`, qui dépend de
-`nodes[2]`, qui dépend de `nodes[1]`. Parce que les fils s'exécutent en
-concurrence sur un processeur multicœur, l'ordre dans lequel les
-lectures et écritures s'entrelacent est déterminé par le sous-système
-mémoire du matériel---trafic de cohérence de cache, arbitrage de bus et
-ordonnancement des cœurs. Cet ordre n'est pas encodé dans le programme ;
-c'est un événement physique, payé en énergie du processeur. Chacun de
-ces événements est une *résolution* de la contrainte mutuelle, et cette
-résolution devient partie de l'état en évolution, amplifiée et
-redistribuée par la fonction de mélange.
+Trois fils d'exécution concurrents ( T_0, T_1, T_2 ) exécutent les
+règles suivantes indéfiniment :
 
-Le point critique : l'état initial (tous à zéro) et le code déterministe
-ne forcent aucune séquence particulière d'entrelacements d'opérations
-mémoire. De nombreuses séquences sont compatibles avec la condition
-initiale, et chacune produit un état subséquent différent. La
-description statique du système est donc sous-déterminée. Le système
-doit fonctionner pour résoudre quelle séquence se produit réellement, et
-cette résolution est un acte nouveau et irréproductible.
+- ( T_0: m_1 `\leftarrow `{=tex}f(m_0) )
+- ( T_1: m_2 `\leftarrow `{=tex}f(m_1) )
+- ( T_2: m_0 `\leftarrow `{=tex}f(m_2) )
 
-### 4.3 Résultats empiriques
+Aucune primitive de synchronisation n'est utilisée. Les lectures et
+écritures sont effectuées avec une sémantique volatile, garantissant un
+accès mémoire réel.
 
-Deux propriétés empiriques confirment que `Seedy64` est une topologie
-générative, et non chaotique.
+Le fil principal échantillonne ( $m_0 \oplus m_1 \oplus m_2$ ) à
+intervalles réguliers et produit la différence entre les échantillons
+successifs.
 
-**Aléa statistique.** Les flux de sortie de `Seedy64` réussissent la
-suite de tests PractRand jusqu'à au moins 2\^20 octets et au-delà. Aucun
-schéma algorithmique n'est détectable par les batteries statistiques
-standard.
+### 3.2 Le graphe de dépendances
 
-**Couverture exhaustive.** Lorsque le dispositif est démarré, autorisé à
-produire seulement sa première sortie 64 bits, puis immédiatement
-détruit et reconstruit, les premières sorties collectées sur des
-milliers d'exécutions couvrent uniformément toute la plage des entiers
-32 bits. Le même départ tout à zéro produit, sur de nombreuses
-exécutions fraîches, chaque petit entier possible. Ce n'est pas un
-attracteur caché ; c'est une nouveauté exhaustive.
+Le graphe de dépendances forme un 3-cycle dirigé : \[
+$m_0 \to m_1 \to m_2 \to m_0$ \]
 
-Ces résultats réfutent l'hypothèse selon laquelle `Seedy64` ne fait
-qu'amplifier des différences microscopiques dans les conditions
-initiales (parce que la condition initiale est numériquement identique à
-chaque fois). Ils démontrent que le système *crée* sa sortie, la payant
-en énergie, et que sa sortie ne peut être dérivée par aucune simulation
-plus courte que l'exécution réelle.
+Ce cycle signifie qu'aucun fil ne peut calculer son état suivant sans
+connaître l'état produit par un autre fil, qui dépend lui-même du
+premier. C'est une **récursion mutuelle** qui ne peut être aplatie en un
+ordre séquentiel sans briser la sémantique.
+
+### 3.3 L'ordonnanceur physique
+
+Dans un vrai CPU, l'ordre des opérations mémoire est déterminé par :
+
+- **Le protocole de cohérence de cache (par exemple, MESI)** : quel cœur
+  obtient la propriété de la ligne de cache en premier.
+- **L'exécution hors ordre** : le CPU réordonne les instructions pour
+  optimiser les pipelines.
+- **Le bruit thermique et les fluctuations de tension** : ceux-ci
+  affectent les délais de porte, modifiant la nanoseconde exacte à
+  laquelle une écriture devient visible pour les autres cœurs.
+
+Soit ( $S$ ) la séquence d'entrelacements générée par le matériel. ( $S$
+) n'est pas encodée dans le logiciel ; c'est un événement physique. La
+sortie ( $O$ ) est une fonction déterministe ( $O = F(\text{code}, S)$
+). Puisque ( $S$ ) est déterminé par le microétat physique ( $\Phi$ ) du
+CPU, nous avons : \[ \$O = F(`\text{code}`{=tex}, $\Phi$)\$ \]
+
+Pour prédire ( $O$ ) sans exécution, il faut connaître ( $\Phi$ )
+exactement. Mesurer ( $\Phi$ ) nécessite de le perturber (problème de
+mesure quantique). Simuler ( $\Phi$ ) nécessite un ordinateur au moins
+aussi complexe que le CPU d'origine.
 
 ------------------------------------------------------------------------
 
-## 5. Le code et la machine : pourquoi la générativité exige un environnement d'exécution
+## 4. Preuves empiriques -- Pourquoi l'exécution est nécessaire
 
-Le succès empirique de `Seedy64` clarifie une caractéristique
-essentielle des topologies génératives : l'ensemble de règles
-autoréférentielles seul ne suffit pas. Le code, s'il était exécuté dans
-une machine virtuelle parfaitement déterministe et séquentiellement
-ordonnée imposant un ordre de mise à jour fixe, produirait une
-trajectoire répétable. La générativité naît du *couplage* entre les
-règles autoréférentielles et un environnement d'exécution physique dont
-le comportement n'est pas entièrement capturé par ces règles. Dans le
-cas de `Seedy64`, l'environnement d'exécution est le CPU, le système
-d'exploitation et la hiérarchie mémoire---suffisamment complexes pour
-fournir des entrelacements irréproductibles, mais pas aléatoires au sens
-d'un générateur de nombres aléatoires matériel. Les entrelacements sont
-le produit d'un processus physique déterministe mais imprévisible (la
-dynamique interne de la microarchitecture), et ils sont *nécessaires*
-pour que l'anneau se résolve.
+### 4.1 Aléa statistique
 
-Cette séparation est cruciale pour la suite. Une topologie générative
-n'est pas un logiciel ; c'est un **système code--machine**. Le code
-fournit la structure autoréférentielle ; la machine fournit le canal de
-résolution temporelle. La nouveauté est générée à leur interface.
+Nous avons soumis la sortie de `Seedy64` à la suite de tests PractRand.
+À ( $2^{20}$ ) octets et au-delà, la sortie passe tous les tests
+statistiques standard. Aucun motif discernable n'est présent.
 
-------------------------------------------------------------------------
+**Interprétation :** La fonction de mélange ( $f$ ) est suffisamment
+chaotique pour que les minuscules variations de ( $S$ ) (la séquence
+d'entrelacement) soient amplifiées pour couvrir uniformément tout
+l'espace d'états.
 
-## 6. La topologie générative biologique : le génome comme code, le cytoplasme comme machine
+### 4.2 Couverture exhaustive
 
-### 6.1 Le génome autoréférentiel
+Nous avons exécuté `Seedy64`, à chaque fois à partir d'un nouveau
+démarrage de processus (mémoire logique remise à zéro), et capturé
+uniquement la *première* sortie de 64 bits. Les sorties collectées
+couvraient uniformément toute la plage d'entiers 32 bits (lors du
+tronquage).
 
-Un ovule fécondé contient un génome et un environnement cytoplasmique
-complexe. Le génome n'encode pas un programme linéaire mais un réseau
-dense d'interactions régulatrices : les gènes produisent des protéines
-qui se lient à l'ADN et modifient l'expression d'autres gènes, y compris
-souvent eux-mêmes. Les facteurs de transcription forment des boucles de
-rétroaction, des antagonismes croisés et des interrupteurs
-multi-stables. Ce réseau est, dans le langage de la section 3, un
-ensemble de règles autoréférentielles. Son graphe de dépendances est
-riche en cycles.
+**Interprétation :** Cela réfute l'hypothèse selon laquelle `Seedy64`
+échantillonne simplement un attracteur fixe. Le microétat physique
+initial ( $\Phi$ ) varie aléatoirement entre les exécutions, et la
+correspondance ( $\Phi \to O$ ) est un hachage quasi parfait.
 
-La séquence d'ADN plus la concentration initiale des facteurs maternels
-est le « code ». Mais tout comme le code `Seedy64` en isolation ne
-détermine pas une sortie, le génome en isolation ne détermine pas un
-phénotype. Il contient des contraintes, mais ces contraintes admettent
-de nombreuses résolutions cohérentes possibles---de nombreux plans
-corporels viables, de nombreux schémas de destinée cellulaire.
+### 4.3 Échec en simulation
 
-### 6.2 L'environnement d'exécution cellulaire
+Lorsqu'il est exécuté dans une machine virtuelle déterministe et
+séquentielle (par exemple, QEMU avec un ordre d'instructions fixe),
+`Seedy64` produit une sortie hautement répétitive et à motifs.
 
-Le cytoplasme fournit l'environnement d'exécution physique. L'expression
-génique stochastique, la diffusion variable des morphogènes, les forces
-mécaniques issues de la division et de la migration cellulaires, les
-gradients métaboliques et le bruit thermique contribuent tous à un
-environnement où l'exécution des règles génétiques n'est ni séquentielle
-ni idéale, mais concurrente, asynchrone et irréproductible. Les
-divisions cellulaires ne sont pas parfaitement synchronisées ; les
-molécules de signalisation arrivent à des moments légèrement différents
-; un facteur de transcription donné peut se lier à un promoteur ou non
-selon l'encombrement moléculaire local. Ces micro‑événements sont
-l'analogue du trafic de cohérence de cache du CPU : ce sont les «
-entrelacements » qui résolvent les contraintes mutuelles du réseau de
-régulation.
-
-### 6.3 L'organisme comme sortie générative
-
-L'embryon en développement est donc une topologie générative au sens
-précis défini plus haut. Le réseau génique autoréférentiel (code) couplé
-à l'environnement cellulaire physique, bruité et temporellement étendu
-(machine) produit un système dont les états futurs sont sous-déterminés
-par sa description initiale. La seule façon de « connaître » le
-phénotype est de laisser l'embryon croître. Le corps n'est pas calculé ;
-il est généré.
-
-Cela explique pourquoi les vrais jumeaux, partageant le même génome et
-souvent le même environnement utérin, ne sont pas véritablement
-identiques. Ils sont des tirages différents de la même topologie
-générative. Leurs différences phénotypiques---empreintes digitales,
-câblage neuronal, particularités organiques---ne sont pas des erreurs
-dans un processus de copie ; elles sont la sortie naturelle et attendue
-d'un système qui ne peut pas produire deux fois la même sortie parce que
-sa sortie n'est stockée nulle part. Elle est mise en acte.
-
-L'implication évolutionniste est profonde. La variation n'est pas
-uniquement le produit de mutations aléatoires de l'ADN ; elle est une
-sortie continue et active de la topologie générative développementale.
-La sélection naturelle filtre la nouveauté que le développement crée
-constamment, un peu comme un test statistique évalue la sortie de
-`Seedy64`. L'évolution, sous cet angle, est un processus créatif
-canalisé par la sélection, et non un lanceur de dés aveugle.
+**Interprétation :** C'est l'expérience de contrôle. Cela prouve que la
+nouveauté ne réside pas dans l'algorithme seul, mais dans le *couplage*
+entre l'algorithme et un environnement d'exécution physique
+indéterministe.
 
 ------------------------------------------------------------------------
 
-## 7. La topologie générative cognitive : l'esprit comme résolution active
+## 5. Implications théoriques
 
-Si un embryon est une topologie générative, un cerveau conscient l'est
-aussi. L'architecture neuronale du cerveau forme un réseau massivement
-récurrent. La perception influence la mémoire, la mémoire biaise
-l'anticipation, l'anticipation dirige l'attention, et l'attention
-façonne la perception---une boucle fermée de dépendance mutuelle.
-L'entrée sensorielle ne brise pas cette clôture ; elle injecte des
-perturbations qui sont immédiatement intégrées au processus de
-résolution en cours. Le connectome cérébral est l'ensemble de règles
-autoréférentielles ; le milieu électrochimique, synaptique et
-métabolique est l'environnement d'exécution physique.
+### 5.1 Réfuter Laplace (de la bonne manière)
 
-Une pensée, alors, est un événement de résolution. Vous ne pouvez pas
-prédire votre propre prochaine pensée en examinant un instantané de
-l'état actuel de votre cerveau, parce que cet état est un ensemble de
-contraintes sans successeur unique. L'acte de penser---la propagation
-physique réelle des impulsions, le règlement des réseaux
-d'attracteurs---est la génération de la pensée. C'est pourquoi une
-véritable perspicacité semble être une découverte, et non un rappel.
-C'est une information nouvelle amenée à l'existence par l'opération
-générative du cerveau.
+Le démon de Laplace n'est pas réfuté par la « sous-détermination »
+(c'était faux). Il est réfuté par la **limitation computationnelle**.
 
-La même logique s'applique à la décision et au libre arbitre. Un esprit
-qui délibère maintient désirs, croyances, valeurs et perceptions en
-tension mutuelle. Le réseau de contraintes est sous-déterminé ; de
-multiples choix sont compatibles avec l'état présent. L'acte de décider
-est la résolution physique de ce réseau, un événement créatif qui
-consomme de l'énergie métabolique et produit un nouvel état qui n'était
-pas prédéterminé. Le libre arbitre, selon cette vision, n'est ni un
-miracle sans cause ni une simple hasard ; c'est la nouveauté créative
-active d'une topologie générative cognitive.
+Si le démon est une entité physique, il doit obéir aux lois de la
+thermodynamique. Pour prédire `Seedy64`, il doit simuler le microétat du
+CPU. Le théorème de Margolus-Levitin impose un temps minimal (
+$t_{min} = \frac{\pi \hbar}{2E}$ ) pour tout changement d'état. Si le
+démon tente de prédire plus vite que le temps réel, il viole la limite
+de vitesse du traitement de l'information physique. Par conséquent, le
+démon ne peut pas connaître la sortie avant que le système ne s'exécute.
 
-------------------------------------------------------------------------
+C'est une réfutation *pratique et thermodynamique*, non logique. Elle
+est sans doute plus puissante : elle ne nécessite pas de métaphysique
+exotique ; elle ne requiert que la physique.
 
-## 8. La topologie générative cosmique : le Big Bang comme première résolution
+### 5.2 Topologies génératives -- Une définition formelle
 
-À l'autre extrémité de l'échelle, l'univers primordial peut être compris
-comme la topologie générative ultime. À l'ère de Planck, tous les degrés
-de liberté---géométrie de l'espace-temps, champs quantiques, matière
-naissante---étaient en contact causal direct, formant un réseau
-maximalement interconnecté et autoréférentiel. Il n'y avait pas
-d'horloge externe ; le temps lui-même faisait partie de la dynamique
-interne du système. La « condition initiale », si une telle expression
-s'applique même, était un ensemble de contraintes mutuelles sans
-résolution unique.
+Nous définissons une **topologie générative** comme un système (
+$(R, \mathcal{M})$ ) où :
 
-L'expansion de l'univers a fourni l'« environnement d'exécution »---le
-processus physique de sérialisation de ces contraintes en une histoire
-cohérente. Les brisures de symétrie, les événements de décohérence et
-l'émergence de la structure classique furent les premiers actes
-génératifs. Le fond diffus cosmologique et la distribution des galaxies
-à grande échelle sont l'enregistrement figé de ces premiers tirages.
-L'univers, dès son origine, était une topologie générative qui devait
-jouer aux dés, non parce qu'une force aléatoire a été insérée, mais
-parce qu'une naissance autoréférentielle ne peut pas être déterminée
-statiquement.
+- ( R ) est un ensemble de règles déterministes avec au moins un cycle
+  fermé dans son graphe de dépendances.
+- ( $\mathcal{M}$ ) est une machine physique dont le microétat interne (
+  $\Phi(t)$ ) n'est pas entièrement spécifié par ( R ).
 
-Ainsi, l'indétermination quantique elle-même peut être réinterprétée non
-pas comme une loi fondamentale mais comme le vestige de basse énergie
-d'une topologie générative primordiale---un bourdonnement continu
-d'événements de résolution qui ne s'est jamais complètement réglé parce
-que le réseau de contraintes originel n'a jamais été « résolu »,
-seulement refroidi et expansé.
+La sortie ( O(t) ) d'une topologie générative est *computationnellement
+irréductible* : il n'existe aucun algorithme ( A ) tel que ( A(R,
+`\text{mémoire initiale}`{=tex}) ) produit ( O(t) ) en un temps
+inférieur à ( $t \times \mathcal{O}(1)$ ) sans recourir au même substrat
+physique.
 
 ------------------------------------------------------------------------
 
-## 9. La nature du temps et la réfutation de Laplace
+## 6. Extensions biologiques et cognitives (Par analogie)
 
-Si les topologies génératives imprègnent la réalité, alors le temps est
-plus qu'un paramètre dans les équations. Le temps est le milieu de la
-résolution des contraintes. La flèche du temps n'est pas seulement
-thermodynamique ; elle est *générative*---elle marque l'accumulation
-irréversible d'états nouveaux qui n'existaient pas avant d'être mis en
-acte.
+### 6.1 L'embryon comme topologie générative
 
-Le démon de Laplace est réfuté non pas en invoquant la mécanique
-quantique ou l'imprévisibilité chaotique, mais en soulignant que
-l'instantané requis par le démon est logiquement incomplet pour tout
-système contenant une topologie générative. Le démon devrait connaître
-toute l'histoire de sérialisation à l'avance, mais cette histoire est
-précisément ce qu'il essaie de prédire. Il devrait devenir l'univers,
-non le simuler. Le déterminisme n'est pas faux ; il est *inapplicable*
-aux systèmes dont les spécifications initiales sont sous-déterminées.
+Le génome est l'ensemble de règles ( $R$ ) ; le cytoplasme et sa
+biochimie stochastique sont la machine physique ( $\mathcal{M}$ ). Les
+réseaux de régulation contiennent des milliers de boucles de
+rétroaction. Le phénotype n'est pas « encodé » dans l'ADN ; il est
+*réalisé* par l'environnement d'exécution cellulaire. Les jumeaux
+identiques, partageant le même ( $R$ ), divergent parce que le microétat
+physique ( $\Phi$ ) de chaque embryon (concentrations de protéines,
+gradients de morphogènes, forces mécaniques) n'est jamais identique. Le
+développement est computationnellement irréductible---vous ne pouvez pas
+« simuler » un embryon humain plus vite qu'il ne grandit sans construire
+une machine de complexité égale.
 
-L'univers joue aux dés. Il joue aux dés nécessairement, parce que son
-origine, ses processus vivants et ses êtres conscients sont des
-topologies génératives qui doivent se résoudre dans le temps. Les dés ne
-sont pas un amendement à la loi ; ils sont la signature structurelle
-d'une réalité qui ne peut pas s'empêcher de créer.
+### 6.2 Le cerveau conscient comme topologie générative
 
-------------------------------------------------------------------------
+Le connectome du cerveau forme un réseau neuronal récurrent avec une
+rétroaction dense. L'entrée sensorielle perturbe le réseau, mais l'état
+futur du réseau est déterminé par son microétat physique (poids
+synaptiques, concentrations de neurotransmetteurs, gradients ioniques).
+Une pensée est une résolution de ce réseau de contraintes mutuelles.
+Elle est computationnellement irréductible : vous ne pouvez pas prédire
+votre prochaine pensée sans la penser, car l'acte de penser *est* le
+calcul.
 
-## 10. Conclusion : la grammaire du devenir
+### 6.3 L'univers comme topologie générative ultime
 
-Nous avons commencé avec trois amis criant des nombres dans un cercle,
-incapables de décider quoi dire avant de le dire. Nous terminons avec un
-cosmos qui fait de même, de ses premiers moments ardents à la naissance
-silencieuse d'une pensée. Une topologie générative est le nom formel de
-ce schéma ancien et omniprésent : une boucle autoréférentielle placée
-dans un milieu physique, forcée de se résoudre, et produisant une
-nouveauté authentique comme conséquence nécessaire.
-
-Le dispositif `Seedy64` offre une ancre empirique---une preuve minimale
-et reproductible que de tels systèmes existent et se comportent
-exactement comme la théorie le prédit. À partir de cette ancre, nous
-pouvons étendre le concept à la biologie, où l'embryon devient un
-processus génératif, et non l'exécution d'un plan ; aux sciences
-cognitives, où l'esprit devient un résolveur créatif, et non un
-processeur mécanique ; et à la cosmologie, où le Big Bang devient le
-premier acte génératif, et non le premier domino.
-
-Nous ne sommes pas des accidents cosmiques. Nous sommes les résultats
-inévitables, imprévisibles et authentiquement nouveaux d'une topologie
-qui devait devenir. Les dés ont toujours été là, jetés non par un joueur
-caché mais par la grammaire même de l'existence. Et cette grammaire dit
-: *être, c'est résoudre, et résoudre, c'est créer.*
+Par extension (et comme hypothèse spéculative), l'univers primitif était
+un système dont les champs et l'espace-temps formaient une topologie
+fermée et autoréférentielle. L'« environnement d'exécution » était
+l'expansion elle-même. Les lois fournissaient des contraintes, mais la
+configuration spécifique de l'univers---ses symétries, son asymétrie
+matière-antimatière---a été résolue par la dynamique physique, non
+prédéterminée par une condition initiale. Ce n'est pas une preuve ;
+c'est un isomorphisme suggéré.
 
 ------------------------------------------------------------------------
 
-**Références**
+## 7. Conclusion
 
-- Bergson, H. *L'Évolution créatrice*. (1907)
-- Whitehead, A. N. *Procès et réalité*. (1929)
-- Prigogine, I. *La Fin des certitudes*. (1996)
-- Kauffman, S. A. *The Origins of Order: Self-Organization and Selection
-  in Evolution*. (1993)
-- Varela, F. J., Thompson, E., & Rosch, E. *L'Inscription corporelle de
-  l'esprit*. (1993)
-- Dépôt SoftRNG, données empiriques `Seedy64` :
-  github.com/sysaulab/softrng
+Nous avons introduit le concept de *topologie générative* : un système
+déterministe dont les dépendances en boucle fermée, lorsqu'elles sont
+couplées à un environnement d'exécution physique, produisent des sorties
+computationnellement irréductibles. Le dispositif `Seedy64` fournit une
+preuve de concept minimale et empirique. Il démontre que la nouveauté
+n'est pas créée à partir de rien, mais est le produit d'une boucle de
+rétroaction amplifiant le microétat physique de la machine.
 
-# Une boussole cybernétique pour la navigation éthique et l'unité interconfessionnelle
+Ce cadre offre un juste milieu rigoureux entre le déterminisme strict et
+le mysticisme flottant. L'univers, la vie et l'esprit ne fonctionnent
+pas selon des scripts préécrits ; ils *fonctionnent* parce qu'ils le
+doivent. L'avenir n'est pas absent ; il est simplement trop coûteux
+computationnellement pour être connu à l'avance.
 
-**Auteur :** Sylvain Saucier\
-**Dépôt :** github.com/sysaulab/softrng\
-**Travail précurseur :** *Le temps comme dé : une réfutation
-computationnelle du déterminisme laplacien*
+**Être, c'est calculer. Calculer, c'est résoudre. Résoudre, c'est
+créer.**
+
+------------------------------------------------------------------------
+
+## Références
+
+- Bennett, C. H. (1982). The thermodynamics of computation---a review.
+  *International Journal of Theoretical Physics*, 21(12), 905-940.
+- Landauer, R. (1961). Irreversibility and heat generation in the
+  computing process. *IBM Journal of Research and Development*, 5(3),
+  183-191.
+- Margolus, N., & Levitin, L. B. (1998). The maximum speed of dynamical
+  evolution. *Physica D: Nonlinear Phenomena*, 120(1-2), 188-195.
+- Turing, A. M. (1936). On computable numbers, with an application to
+  the Entscheidungsproblem. *Proceedings of the London Mathematical
+  Society*, 2(42), 230-265.
+- Wolfram, S. (2002). *A New Kind of Science*. Wolfram Media.
+- Saucier, S. (2026). SoftRNG Repository. github.com/sysaulab/softrng
+
+# Une boussole cybernétique
+
+***Navigation éthique et unité interreligieuse***
+
+**Auteur :** Sylvain Saucier
 
 ------------------------------------------------------------------------
 
@@ -1435,10 +1264,10 @@ avec un attracteur constructif `(+++)` et un attracteur destructif
 complexité constructive, et **DIEU** comme la propriété émergente ultime
 de l'univers --- la limite qui recule à jamais vers laquelle tend la
 complexité constructive. Le cube sert de boussole, non de carte. Il ne
-prescrit pas ce qu'il faut croire, mais comment orienter tout système de
+prescrit pas quoi croire, mais comment orienter tout système de
 croyances vers la santé systémique. Je soutiens que les leaders
 spirituels de toutes les traditions peuvent utiliser cette boussole pour
-dépasser les concours de rectitude et débattre plutôt des *conséquences
+dépasser les concours de droiture et plutôt débattre des *conséquences
 systémiques* de leurs théologies. Ce faisant, ils peuvent unir
 l'humanité sous différentes religions et cultures, chacune préservant
 son identité unique tout en contribuant à un attracteur constructif
@@ -1454,7 +1283,7 @@ de carte, et tous les arbres se ressemblent. Quelque part, vous le
 savez, il y a une clairière où la vie est sûre et bonne. Mais la forêt
 est pleine de voix, et chaque voix prétend connaître le seul vrai
 chemin. Une voix dit : « Va vers le nord, toujours vers le nord, et ne
-demande jamais pourquoi. » Une autre dit : « Va vers le sud, et si tu
+te demande jamais pourquoi. » Une autre dit : « Va vers le sud, et si tu
 rencontres quelqu'un qui va vers le nord, c'est ton ennemi. » Une
 troisième dit : « Reste exactement où tu es ; le mouvement est un péché.
 » Toutes semblent certaines, et toutes se contredisent.
@@ -1468,8 +1297,8 @@ magnétique --- une direction qui est vraie peu importe où vous vous
 tenez ou ce que vous croyez. Si vous avez une boussole, vous pouvez
 toujours vous perdre, vous pouvez toujours trébucher, mais vous pouvez
 toujours vous réorienter. Vous pouvez même marcher côte à côte avec
-quelqu'un qui tient une carte différente, tant que vous convenez tous
-les deux de la direction du nord.
+quelqu'un qui tient une carte différente, tant que vous vous entendez
+tous les deux sur la direction du nord.
 
 L'humanité est dans une telle forêt aujourd'hui. Nous sommes divisés non
 seulement par des frontières et des ressources, mais par des idéologies,
@@ -1477,13 +1306,13 @@ chacune prétendant être la carte complète. Les religions, les systèmes
 politiques, les identités culturelles --- chacun a commencé comme une
 façon créative de naviguer dans un temps et un lieu particuliers, mais
 beaucoup se sont durcis en systèmes fermés qui ne peuvent plus se
-corriger eux-mêmes. Ils cessent d'écouter. Ils punissent la curiosité.
-Ils piétinent le fragile. Dans le langage de la cybernétique, ils ont
-perdu leurs boucles de rétroaction, leur capacité d'apprentissage et
-leur soin des porteurs délicats de la vie future.
+corriger. Ils cessent d'écouter. Ils punissent la curiosité. Ils
+piétinent le fragile. Dans le langage de la cybernétique, ils ont perdu
+leurs boucles de rétroaction, leur capacité d'apprendre et leur soin des
+porteurs délicats de la vie future.
 
 Cet article n'offre pas une nouvelle carte. Il offre une boussole --- un
-outil de navigation éthique simple, tridimensionnel, construit à partir
+outil de navigation éthique tridimensionnel simple, construit à partir
 des exigences minimales que tout système sain et vivant doit satisfaire.
 Je l'appelle le Cube. Le Cube ne demande à personne d'abandonner sa
 religion, sa culture ou ses convictions les plus profondes. Il demande
@@ -1495,8 +1324,8 @@ univers qui se résout créativement depuis le tout début.
 
 Le reste de cet article explique les trois axes du Cube, son attracteur
 constructif, et comment les leaders spirituels et les gens ordinaires
-peuvent l'utiliser pour dépasser les concours de rectitude et débattre
-plutôt des conséquences systémiques de leurs croyances. C'est, en
+peuvent l'utiliser pour dépasser les concours de droiture et plutôt
+débattre des conséquences systémiques de leurs croyances. C'est, en
 essence, une invitation à cesser de comparer les cartes et à commencer à
 partager une direction.
 
@@ -1505,19 +1334,19 @@ partager une direction.
 Toute idéologie, religieuse ou séculière, commence comme une résolution
 créative d'un ensemble spécifique de contraintes humaines. Avec le
 temps, cependant, elle tend à s'ossifier. Elle devient un système fermé
-de prescriptions qui prétend déduire le bon avenir d'un ensemble fixe de
-principes. C'est la forme idéologique du démon de Laplace : une croyance
-que le bien peut être spécifié une fois pour toutes, et que la déviation
-est une erreur.
+de prescriptions qui prétend déduire le bon avenir à partir d'un
+ensemble fixe de principes. C'est la forme idéologique du démon de
+Laplace : la croyance que le bien peut être spécifié une fois pour
+toutes, et que la déviation est une erreur.
 
 Le dossier historique montre le coût. Lorsqu'une idéologie se durcit,
 elle raccourcit ses propres boucles de rétroaction (elle cesse
 d'écouter), supprime la curiosité (elle punit les questions) et sacrifie
-le fragile (minorités, dissidents, vulnérables) au nom de la pureté.
-Dans le langage de mon travail antérieur sur les topologies
-autoréférentielles (*Le temps comme dé*), une idéologie fermée est un
-système déterministe essayant de fonctionner dans un monde
-irréductiblement créatif. Elle ne peut pas réussir, et en échouant, elle
+le fragile (minorités, dissidents, vulnérables) au nom de la pureté. Une
+idéologie fermée est un système déterministe essayant de fonctionner
+dans un monde irréductiblement créatif --- un monde où la nouveauté
+émerge de la résolution de contraintes mutuelles, non de l'exécution
+d'un script préécrit. Elle ne peut pas réussir, et en échouant, elle
 détruit la diversité qui rend le monde résilient.
 
 Ce qu'il faut, ce n'est pas une meilleure idéologie, mais une
@@ -1538,14 +1367,14 @@ propose une définition intrinsèquement dynamique et systémique :
 
 Trois termes importent ici :
 
-- **Diversité** : hétérogénéité, présence de nombreuses formes
+- **Diversité** : hétérogénéité, la présence de nombreuses formes
   distinctes de vie, de pensée et de culture.
-- **Complexité** : richesse des interconnexions et des dépendances
-  mutuelles au sein des systèmes et entre eux.
+- **Complexité** : la richesse des interconnexions et des dépendances
+  mutuelles au sein et entre les systèmes.
 - **Constructif** : ce qui déplace un système vers l'attracteur `(+++)`
-  du Cube --- c'est-à-dire une complexité qui maintient des boucles de
-  rétroaction courtes, favorise la curiosité et protège le fragile. Le
-  mot est donc à la fois intuitif et techniquement ancré.
+  du Cube --- c'est-à-dire une complexité qui maintient de courtes
+  boucles de rétroaction, favorise la curiosité et protège le fragile.
+  Le mot est donc à la fois intuitif et techniquement ancré.
 
 Le BIEN, ainsi défini, n'est pas un point final statique. C'est une
 *direction*. Un système est bon non parce qu'il a atteint la perfection,
@@ -1557,11 +1386,11 @@ Si le BIEN est la direction, alors **DIEU** est l'horizon ultime :
 > **DIEU** est la propriété émergente ultime de l'univers.
 
 Ce n'est pas une affirmation théologique sur une divinité personnelle
---- bien que cela soit entièrement compatible avec de telles
+--- bien que cela soit tout à fait compatible avec de telles
 affirmations. C'est plutôt une déclaration structurelle : si l'univers
 est une topologie autoréférentielle qui résout ses propres contraintes
 depuis le Big Bang, alors la totalité accumulée de toutes ces
-résolutions créatives --- la complexité sans cesse croissante de ce qui
+résolutions créatives --- la complexité toujours croissante de ce qui
 est devenu --- est DIEU. En termes whiteheadiens, c'est la nature
 conséquente de Dieu. En termes cybernétiques, c'est l'attracteur global
 du processus cosmique. Je laisse à chaque tradition le soin de nommer
@@ -1579,16 +1408,15 @@ que de s'effondrer dans un attracteur destructif.
 
 ### Axe 1 : Rétroaction et apprentissage
 
-> **Les systèmes complexes doivent maintenir des boucles de rétroaction
-> courtes et apprendre des conséquences de leurs actions.**
+> **Les systèmes complexes doivent maintenir de courtes boucles de
+> rétroaction et apprendre des conséquences de leurs actions.**
 
 En cybernétique, la rétroaction est le mécanisme par lequel un système
-corrige sa trajectoire. Des boucles de rétroaction courtes signifient
-que les conséquences sont observées rapidement et que le système
-s'ajuste en temps quasi réel. Lorsque les boucles de rétroaction sont
-longues, corrompues ou sectionnées, le système devient aveugle. Il
-accumule des erreurs, dérive vers la pathologie et finit par se
-détruire.
+corrige sa trajectoire. De courtes boucles de rétroaction signifient que
+les conséquences sont observées rapidement et que le système s'ajuste en
+temps quasi réel. Lorsque les boucles de rétroaction sont longues,
+corrompues ou sectionnées, le système devient aveugle. Il accumule des
+erreurs, dérive vers la pathologie et finit par se détruire.
 
 Pour une religion ou une culture, cela signifie : les institutions
 doivent écouter ceux qu'elles affectent, mesurer les résultats
@@ -1611,7 +1439,7 @@ et une monoculture est un risque d'extinction.
 Spirituellement, la curiosité est la main ouverte vers le mystère. C'est
 la reconnaissance que le divin, quelle que soit sa conception, est
 toujours plus grand que notre compréhension actuelle. Chaque grand
-exemplaire --- Jésus questionnant les pharisiens, Mohamed recevant la
+exemple --- Jésus questionnant les pharisiens, Mohamed recevant la
 révélation dans une grotte, Bouddha quittant le palais --- a commencé
 par un acte de curiosité radicale.
 
@@ -1679,13 +1507,13 @@ simplement la direction de la correction. Il ne juge pas ; il oriente.
 
 ### La boussole, pas une carte
 
-Crucialement, le Cube ne dit pas à l'utilisateur *quoi faire* dans une
+Crucialement, le Cube ne dit pas à un utilisateur *quoi faire* dans une
 situation concrète. Il ne fournit aucune liste d'actes permis et
 interdits. C'est une boussole, pas une carte. Apprendre à l'utiliser
 régulièrement --- le consulter dans les moments de décision, réfléchir
-aux actions passées --- développe la compétence de la navigation
-éthique. Avec le temps, l'utilisateur intériorise l'attraction de
-l'attracteur `(+++)` et devient plus sensible à la dérive.
+aux actions passées --- développe la compétence de navigation éthique.
+Avec le temps, l'utilisateur intériorise l'attraction de l'attracteur
+`(+++)` et devient plus sensible à la dérive.
 
 ------------------------------------------------------------------------
 
@@ -1694,33 +1522,34 @@ l'attracteur `(+++)` et devient plus sensible à la dérive.
 Le terme « constructif » dans la définition du BIEN est délibérément
 récursif. Il signifie : tendant vers l'attracteur `(+++)`. Cette
 autoréférence n'est pas un défaut ; c'est la signature d'un système
-vivant et autorégulé. Tout comme la sortie du dispositif `Seedy64` ne
-peut pas être prédite à partir de son état initial zéro, le chemin
+vivant et autorégulé. Tout comme l'état futur d'un système vivant ne
+peut pas être déduit de ses seules conditions initiales --- parce qu'il
+doit résoudre ses contraintes internes en temps réel --- le chemin
 spécifique vers le BIEN ne peut pas être prescrit à l'avance. Il doit
 être généré en temps réel par la pratique propre de l'utilisateur.
 
-Les exemplaires historiques --- Jésus, Mohamed, Bouddha --- ne sont pas
-des figures qui ont laissé des livres de règles statiques. Ils ont vécu
-dans un alignement si profond avec l'attracteur constructif que leurs
-vies sont devenues des points de référence pour toute l'humanité. Ils
-ont incarné la rétroaction (ils ont écouté les exclus, défié
-l'hypocrisie), la curiosité (ils ont bouleversé la tradition, cherché la
-solitude et la révélation) et le respect (ils ont protégé les pauvres,
-les malades, les pécheurs). Les suivre, ce n'est pas imiter leurs actes
-spécifiques, mais s'aligner sur le même attracteur qu'ils ont habité si
-pleinement.
+Les exemples historiques --- Jésus, Mohamed, Bouddha --- ne sont pas des
+figures qui ont laissé des livres de règles statiques. Ils ont vécu dans
+un alignement si profond avec l'attracteur constructif que leurs vies
+sont devenues des points de référence pour toute l'humanité. Ils ont
+incarné la rétroaction (ils écoutaient les exclus, défiaient
+l'hypocrisie), la curiosité (ils bouleversaient la tradition,
+cherchaient la solitude et la révélation) et le respect (ils
+protégeaient les pauvres, les malades, les pécheurs). Les suivre, ce
+n'est pas imiter leurs actes spécifiques, mais s'aligner sur le même
+attracteur qu'ils habitaient si pleinement.
 
-Le Cube ne remplace pas ces figures ; il aide chacun --- de toute
+Le Cube ne remplace pas ces figures ; il aide quiconque --- de toute
 tradition --- à voir *pourquoi* ils sont des attracteurs, et comment
 s'orienter vers les mêmes dynamiques sous-jacentes.
 
 ------------------------------------------------------------------------
 
-## 7. Application au dialogue interconfessionnel et aux conséquences systémiques
+## 7. Application au dialogue interreligieux et aux conséquences systémiques
 
 L'application la plus urgente du Cube est la relation entre les
 religions et les cultures. Actuellement, une grande partie du dialogue
-interconfessionnel est un concours de rectitude : « ma révélation est
+interreligieux est un concours de droiture : « ma révélation est
 complète, la vôtre est partielle. » C'est un jeu à somme nulle qui
 alimente l'attracteur destructif. Il raccourcit la rétroaction (en
 rejetant la critique externe), supprime la curiosité (en protégeant le
@@ -1737,18 +1566,18 @@ des questions les plus profondes de la vie ? - Protège-t-elle ou
 met-elle en danger le fragile parmi nous et dans la création ?
 
 Soudainement, un moine bouddhiste, un imam musulman et un théologien
-chrétien ne comparent plus les Écritures ; ils comparent des *résultats
+chrétien ne comparent plus les écritures ; ils comparent les *résultats
 systémiques*. Ils peuvent être profondément en désaccord sur la
-métaphysique et converger néanmoins sur un diagnostic partagé : une
+métaphysique et pourtant converger sur un diagnostic partagé : une
 pratique qui réduit au silence les victimes, interdit les questions ou
-piétine les minorités est mal alignée avec l'attracteur constructif, peu
+piétine les minorités est désalignée avec l'attracteur constructif, peu
 importe quel livre sacré elle prétend citer.
 
 Ce n'est pas du syncrétisme. Cela ne demande à personne de diluer sa
 foi. Cela demande seulement que chaque tradition utilise la même
 boussole pour s'autoréguler, et qu'elles se tiennent mutuellement
 responsables en utilisant un langage de conséquences plutôt que de
-rectitude. L'objectif n'est pas une religion mondiale unique, mais un
+droiture. L'objectif n'est pas une religion mondiale unique, mais un
 monde où de nombreuses religions font toutes face au même attracteur ---
 chacune préservant son génie unique, chacune contribuant à une écologie
 mondiale de complexité constructive.
@@ -1757,11 +1586,16 @@ mondiale de complexité constructive.
 
 ## 8. Fondement philosophique : cybernétique, processus et topologie autoréférentielle
 
-Le Cube n'est pas une invention arbitraire. C'est une application
-directe de la logique explorée dans *Le temps comme dé*, où j'ai soutenu
-que toute topologie suffisamment autoréférentielle est logiquement
-sous-déterminée --- ses états futurs sont créés dans le temps, non
-déduits d'une description statique.
+Le Cube n'est pas une invention arbitraire. Il émerge d'une observation
+simple sur les systèmes vivants : tout réseau suffisamment complexe de
+dépendances mutuelles est irréductible sur le plan computationnel. Ses
+états futurs ne sont pas déductibles d'une description statique ; ils
+doivent être actualisés dans le temps. Ce n'est pas une affirmation
+mystique --- c'est une affirmation cybernétique. Un cerveau, un
+écosystème, une culture et une tradition spirituelle sont tous de tels
+réseaux. Ce ne sont pas des machines qui exécutent un programme fixe ;
+ce sont des topologies génératives qui créent leur propre trajectoire
+par l'acte même de fonctionner.
 
 Un système éthique pour un tel univers ne peut pas être un ensemble de
 règles déterministes. Il doit être un cadre **souple** --- un cadre qui
@@ -1795,11 +1629,11 @@ mauvaise action plus difficile à maintenir, car la dérive devient
 perceptible.
 
 **Collectivement**, les institutions peuvent utiliser le Cube comme
-outil de diagnostic. Un système juridique peut demander si ses
+outil de diagnostic. Un système juridique peut se demander si ses
 procédures raccourcissent ou allongent la rétroaction (par exemple, les
 délais de prescription, l'accessibilité des appels). Un programme
-éducatif peut demander s'il favorise la curiosité ou la simple
-conformité. Une politique économique peut demander si elle protège le
+éducatif peut se demander s'il favorise la curiosité ou la simple
+conformité. Une politique économique peut se demander si elle protège le
 fragile ou seulement les puissants. Dans chaque cas, le Cube fournit un
 langage d'évaluation partagé qui transcende les frontières idéologiques.
 
@@ -1807,8 +1641,8 @@ La pratique du Cube n'est pas une conversion unique. C'est une
 compétence, comme la navigation par les étoiles. Elle doit être apprise,
 pratiquée et recalibrée régulièrement. Les figures exemplaires ---
 Jésus, Mohamed, Bouddha --- servent de « signaux connus » qui vérifient
-que la boussole pointe toujours juste. Si la pratique de quelqu'un
-dérive vers la cruauté, elle a quitté leur champ gravitationnel.
+que la boussole pointe toujours vrai. Si la pratique de quelqu'un dérive
+vers la cruauté, elle a quitté leur champ gravitationnel.
 
 ------------------------------------------------------------------------
 
@@ -1820,8 +1654,8 @@ direction partagée.
 Le Cube offre cette direction sans demander à personne d'abandonner son
 foyer. C'est un méta-outil, une boussole qui tient dans la poche de
 chaque pèlerin, quel que soit le chemin qu'il parcourt. Il définit le
-BIEN non comme une doctrine mais comme une diversité croissante de
-complexité constructive. Il pointe vers DIEU non comme une divinité
+BIEN non pas comme une doctrine mais comme une diversité croissante de
+complexité constructive. Il pointe vers DIEU non pas comme une divinité
 jalouse mais comme la propriété émergente ultime d'un univers qui se
 résout créativement depuis le premier moment.
 
@@ -1841,9 +1675,7 @@ histoires, et que nous marchions.*
 **Références**
 
 - Beer, S. (1972). *Brain of the Firm*. Allen Lane.
-- Bergson, H. (1911). *L'évolution créatrice*. Henry Holt.
-- Saucier, S. *Le temps comme dé : une réfutation computationnelle du
-  déterminisme laplacien*. github.com/sysaulab/softrng.
+- Bergson, H. (1911). *Creative Evolution*. Henry Holt.
 - Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
 
 ------------------------------------------------------------------------

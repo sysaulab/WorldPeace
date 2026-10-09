@@ -10,7 +10,7 @@
     "engine": "xelatex",
     "documentclass": "book",
     "classoption": "twoside",
-    "header_includes": "\\usepackage{fontspec}\\setsansfont{Helvetica}\\usepackage{sectsty}\\allsectionsfont{\\sffamily}",
+    "header_includes": "\\usepackage{fontspec}\\setsansfont{Helvetica}\\usepackage{sectsty}\\allsectionsfont{\\sffamily}\\usepackage{unicode-math}\\setmathfont[Scale=MatchLowercase]{TeX Gyre Termes Math}",
     "mainfont": "Times New Roman",
     "mainfontoptions": "LetterSpace=0",
     "toc": true,

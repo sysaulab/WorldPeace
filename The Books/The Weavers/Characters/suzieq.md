@@ -1,7 +1,7 @@
 
 I remember Suzie Q.
 
-She started drinking the hard stuff at six years old. Six. A child with a glass of something burning, and the world just let it happen. That was the ground she walked on for decades after. She spent most of her life in Vancouver, in and around the same parks and streets I came to know her in. She was a fixture, a presence, someone who'd been there so long she'd become part of the landscape.
+She spent most of her life in Vancouver, in and around the same parks and streets I came to know her in. She was a fixture, a presence, someone who'd been there so long she'd become part of the landscape.
 
 But here's the thing I need you to understand about Suzie Q: she saved a girl. A fourteen-year-old kid, kicked out by her own mother—an addict who chose the drug over her daughter. Suzie Q took her in. Hosted her for years, until that girl could stand on her own. A woman the world called broken, who'd been drinking hard since childhood, reached back into the same fire and pulled someone else out. She didn't wait until she was fixed. She just did it anyway.
 
