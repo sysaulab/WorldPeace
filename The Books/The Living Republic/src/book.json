@@ -92,5 +92,16 @@
   },
   "epub": {
     "cover_image": "cover.jpg"
+  },
+
+  "audio": {
+    "engine": "say",
+    "voice": { "en-us": "Ava (Premium)", "fr": "Thomas" },
+    "rate": 175,
+    "output": "m4b",
+    "bitrate": "64k",
+    "sample_rate": 22050,
+    "cache_dir": ".audio-cache",
+    "chapter_pause_seconds": 1.0
   }
 }
