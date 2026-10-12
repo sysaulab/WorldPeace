@@ -352,6 +352,10 @@ Each entry in `pdf.outputs[]`:
 | `piper_bin` | Path/name of the `piper` executable. |
 | `piper_models` | `{lang: /path/to/model.onnx}` map for piper. |
 
+# Installation (UNIX)
+
+Copy the files to /usr/local/bin and remove the trailing .py. Use "chmod +x" on each file to make them executable, and export the API key to have access to the translate functionality.
+
 ---
 
 ## Tips
