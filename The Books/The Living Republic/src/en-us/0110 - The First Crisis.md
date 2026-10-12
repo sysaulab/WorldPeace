@@ -37,7 +37,7 @@ She thought about the fact that the fire had started exactly where it would do t
 
 ---
 
-The community gathered at noon in the Great Hall—a meeting space they had rented in a nearby community centre, the largest room they could find on short notice. Three hundred people crowded into the space, standing against the walls, sitting on the floor, waiting for someone to tell them what had happened.
+The community gathered at noon in the Russian Hall—a meeting space they had rented in a nearby community centre, the largest room they could find on short notice. Three hundred people crowded into the space, standing against the walls, sitting on the floor, waiting for someone to tell them what had happened.
 
 Maya stood at the front of the room. She had washed her face, changed her clothes, tried to make herself presentable. But she was exhausted—bone-deep, soul-crushing exhausted. The election had been exhausting. The last four years had been exhausting. And now this.
 
@@ -87,7 +87,7 @@ It was an accident. A tragic, preventable accident.
 
 But Maya didn't believe it.
 
-She hired a private investigator—a former arson detective named Sarah Okonkwo, no relation to David. Sarah spent two weeks examining the evidence, talking to witnesses, studying the security footage. Her conclusion was different.
+She hired a private investigator—a former arson detective named Sarah Okonkwo. Sarah spent two weeks examining the evidence, talking to witnesses, studying the security footage. Her conclusion was different.
 
 The fire had been set.
 

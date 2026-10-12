@@ -1,3 +1,4 @@
+
 ### The Garden
 
 **March 2052. The Atlantic Megacity. Sector 7.**
@@ -116,7 +117,7 @@ He thought about the journey. The alley. The booklet. The Emissary. The transcri
 
 He thought about Miriam Vance—the woman who had written down the truth in 1947, who had sewn it into her jacket, who had carried it for thirty-three years. He thought about Katherine Vance—the woman who had kept the secret for fifty years and confessed it on her deathbed. He thought about Ellie Vance—the woman who had told the truth to the Cataloguers and buried the transcript in a garden.
 
-He thought about Maya—the young woman in the Atlantic Megacity, in the year 2100, who had found the transcript and read it and remembered.
+He thought about Maya Adeyemi—the young woman in the Atlantic Megacity, in the year 2100, who had found the transcript and read it and remembered.
 
 He thought about the future.
 
@@ -288,7 +289,7 @@ The garden was gone.
 
 It had been buried beneath concrete—the roads, the buildings, the infrastructure of the megacity that had grown up around the quarantine zones. But something remained.
 
-A young woman named Maya was walking through the ruins of an old neighbourhood—a place that had once been called Sector 7, though no one remembered the name. She was exploring—looking for artifacts, looking for history, looking for something that would tell her about the world before the dampening.
+A young woman named Maya Adeyemi was walking through the ruins of an old neighbourhood—a place that had once been called Sector 7, though no one remembered the name. She was exploring—looking for artifacts, looking for history, looking for something that would tell her about the world before the dampening.
 
 She found the oak tree.
 

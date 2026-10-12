@@ -1,0 +1,61 @@
+### PeerID
+
+**Rootless, offline-first, social-biometric identity for Living Governance.**
+
+#### Core
+
+- **No root, no central issuer, no global ID.** The graph is the registry. Authority is scoped: nurses accredit nurses, universities accredit graduates, neighborhoods accredit residents.
+- **Bootstrap with two people.** Exchange keys via QR/NFC/Bluetooth. Sign mutual attestation. That is a peer cell. The graph grows by handshake.
+- **Biometrics = label/presence, never secret.** Passphrase = secret. Device = vault. Stolen fingerprint alone cannot unlock; passphrase alone without device cannot unlock.
+- **Identity is mortal.** Loss = death or social rebirth via continuity attestations from people who knew you. No central recovery. If no one vouches, start fresh.
+- **Revocation = signed graph update.** Credential dies when threshold support falls. Not betrayal; honesty.
+
+#### Wallet
+Holds: device root key, local biometric template, passphrase-encrypted seed, pairwise keys per context, signed credentials, trust graph cache, policy engine.
+
+**Attestation fields:** subject, context, weight, timestamp, expiry, revocation conditions, signature.
+
+**Credentials:** self-claims, peer attestations, threshold credentials (e.g. 5-of-7 nurses), institutional, guardian.
+
+#### Graph
+
+- **Global by connection, not root.** Common nodes bridge clusters; internet routes queries.
+- **Verification:** verifier asks “who knows Alice?” Paths propagate. Verifier evaluates locally: independent paths, trusted nodes, freshness, revocations, context match.
+- **No bridge dependency.** Redundancy increases as graph grows. Captured bridges are routed around.
+
+#### Sybil Resistance
+
+- **Social cost, not cryptographic prevention.** New identity requires N real people to attest physical meeting and key control. Maintenance requires ongoing trust.
+- **Biometrics confirm local presence.** No global biometric database. Global uniqueness is not a goal; local accountability is.
+- **Rebirth requires earning new trust.** That is social reform, not caging.
+
+#### Offline / Online
+
+- **Offline:** present credentials, sign challenges, verify signatures, authenticate peers via QR/NFC/Bluetooth/local Wi-Fi.
+- **Online:** query authoritative peers, fetch revocations, sync graph, cast votes.
+- **Distributed storage:** encrypted shards of public credentials. Useless without device secret. No magic recovery.
+
+#### Recovery as Rebirth
+No key recovery. New key + continuity attestations from people who knew you. Enough signatures → credentials reissued. Otherwise start fresh. Makes coercion harder; identity tied to living relationships.
+
+#### Living Governance Integration
+
+- **Identity layer for Continuous Consent Registry.** Membership credentials define eligibility. Nullifiers prevent double voting per jurisdiction.
+- **Voting requires internet; wallet works offline.** Laws on distributed ledger, no central control.
+- **Andon Cord:** guardian credentials authorize pause. **Non-delegation:** each support is a discrete signature. **Sentience:** humans and sentient AIs hold PeerIDs; non-sentient have guardians.
+- **Global laws** require cross-community trust chains, not global uniqueness. Higher threshold for strict uniqueness; or pre-committed automatic sanctions.
+
+#### Privacy & Surveillance
+
+- **Technical:** pairwise keys, ZKPs, selective disclosure, local biometrics, encrypted P2P, rotating keys, no global graph.
+- **Governance:** surveillance violates Respect Axiom. Power transparent; individuals private. Andon Cord can pause surveillance laws.
+- **Limits:** physical observation, metadata, inference, coercion remain. Aim: make mass surveillance expensive, fragmented, contestable.
+
+#### Protocol Governance
+No owner. Open specs, multiple implementations. Local trust frameworks. Disputes local, escalate via graph, Andon Cord. Forkable. Fluid.
+
+#### Context
+Post-catastrophe after centralized authority abuse. Centralized ID discredited. Discipline high; systemic health principles universal. Sybil attacks seen as attacks on commons. Living Governance norm. Trust earned in person.
+
+#### Essence
+PeerID is a rootless mesh of living relationships, local biometrics, and scoped credentials. Bootstraps with two people. Grows by trust. Dies with the person. Reborn through community. Identity layer for continuous consent, transparent institutions, private individuals.z

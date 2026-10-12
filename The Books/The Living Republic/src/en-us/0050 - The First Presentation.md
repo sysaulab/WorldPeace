@@ -1,4 +1,3 @@
-
 ### The First Presentation
 
 **March 1953. Sillycone. The New Mexico Desert.**
@@ -19,7 +18,7 @@ She had written the lie. She had given it words. She had made it beautiful.
 
 And now she was about to tell it to the beings who had come to judge them.
 
-The door behind her opened. General Krupp entered, followed by Dr. Chen and two other men—a biologist named Dr. Sarah Okonkwo and a climate scientist named Dr. James Whitfield. They were the program's senior advisors, the ones who had helped design the presentation, the ones who would stand beside her as she spoke.
+The door behind her opened. General Krupp entered, followed by Dr. Lin and two other men—a biologist named Dr. Sarah Adebayo and a climate scientist named Dr. James Whitfield. They were the program's senior advisors, the ones who had helped design the presentation, the ones who would stand beside her as she spoke.
 
 "Are you ready?" Krupp asked.
 
@@ -57,27 +56,27 @@ She almost believed it.
 
 The Cataloguers did not respond. Their eyes remained fixed on her, unblinking.
 
-Miriam gestured to Dr. Chen, who stepped forward and activated the projector.
+Miriam gestured to Dr. Lin, who stepped forward and activated the projector.
 
 The image that appeared on the wall was a map of the world—a beautiful, glowing map, rendered in vivid colors. It showed forests, oceans, grasslands, wetlands. It showed the places where life still flourished, the places where biodiversity still held.
 
-"This is the state of the planet as of 1950," Dr. Chen said. "As you can see, significant portions of the natural world remain intact. We have identified the most critical ecosystems and developed a comprehensive plan for their restoration."
+"This is the state of the planet as of 1950," Dr. Lin said. "As you can see, significant portions of the natural world remain intact. We have identified the most critical ecosystems and developed a comprehensive plan for their restoration."
 
 The image shifted. New colors appeared—shades of green and blue, sweeping across the continents. The forests expanded. The oceans brightened. The deserts retreated.
 
-"This is our projection for 2050," Dr. Chen continued. "If current trends continue, and if our restoration programs are implemented as planned, we will have achieved a thirty percent increase in biodiversity across all major biomes."
+"This is our projection for 2050," Dr. Lin continued. "If current trends continue, and if our restoration programs are implemented as planned, we will have achieved a thirty percent increase in biodiversity across all major biomes."
 
 Miriam watched the Cataloguers.
 
 They did not react. They did not blink, did not shift, did not hum. They simply watched, their dark eyes absorbing everything, giving nothing back.
 
-Dr. Okonkwo stepped forward next.
+Dr. Adebayo stepped forward next.
 
 "The biodiversity report is supported by our climate data," she said. "We have developed a comprehensive model for carbon reduction, renewable energy deployment, and sustainable agriculture. If implemented globally, these measures will stabilize atmospheric CO2 at 350 parts per million by 2075."
 
 The image shifted again—a graph this time, showing carbon emissions curving downward, temperature rising but then leveling off, sea levels stabilizing.
 
-"We have also identified key species for protection and restoration," Dr. Okonkwo continued. "The northern white rhino, the mountain gorilla, the Sumatran tiger, the blue whale. These are the flagship species—the ones that will capture public attention and drive conservation efforts."
+"We have also identified key species for protection and restoration," Dr. Adebayo continued. "The northern white rhino, the mountain gorilla, the Sumatran tiger, the blue whale. These are the flagship species—the ones that will capture public attention and drive conservation efforts."
 
 Dr. Whitfield stepped forward.
 
@@ -119,7 +118,7 @@ The being stepped back. The light began to fade. The Cataloguers dissolved into 
 
 Miriam stood alone in the chamber for a long time.
 
-The others had left—Krupp, Chen, Okonkwo, Whitfield. They had gone upstairs to debrief, to analyze, to celebrate what they would call a successful presentation. They had heard what they wanted to hear. They had convinced themselves that the Cataloguers had accepted the story.
+The others had left—Krupp, Lin, Adebayo, Whitfield. They had gone upstairs to debrief, to analyze, to celebrate what they would call a successful presentation. They had heard what they wanted to hear. They had convinced themselves that the Cataloguers had accepted the story.
 
 But Miriam knew better.
 

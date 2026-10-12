@@ -1,8 +1,9 @@
+
 ### The Laptop
 
 **November 2471. The Underground District. Seattle.**
 
-Jamal Okonkwo had not slept in three days.
+Jamal Nwosu had not slept in three days.
 
 He sat in the corner of the workshop—a converted basement beneath a collapsed warehouse, filled with scavenged equipment and homemade tools—surrounded by a constellation of devices. Tablets. Phones. Circuit boards. Cables. A soldering iron. A 3D printer that had been modified so many times it no longer resembled its original form. Three empty cups of tea. A plate with the remains of a meal he didn't remember eating.
 
@@ -235,69 +236,3 @@ He looked out the window at the city—the sealed city, the managed city, the ci
 He thought about the future.
 
 And he smiled.
-
----
-
-**Epilogue: The Network**
-
-**December 2471. The Pacific Northwest. The Cabin.**
-
-Jamal sat in the cabin, the fire crackling in the stove, the snow falling softly outside.
-
-He had returned to the place where it had all begun—the cabin in the forest, the table where Elena and Jamal had exchanged their first handshake, the place where the second track had been born.
-
-He was not alone. Elena was there, and Kai, and Zara. They had come to celebrate—to mark the moment, to remember the journey, to look toward the future.
-
-The laptop sat on the table between them.
-
-"The DFS is spreading," Jamal said. "We've got nodes in every major city. We've got thousands of laptops in circulation. We've got people building their own—using our designs, improving them, making them better."
-
-"The GCA is trying to stop it," Kai said. "They've banned the modified devices. They've arrested people who use them. They've tried to shut down the network."
-
-"And?"
-
-"And it's not working. The network is too distributed. Too many people have the laptops. Too many people depend on them."
-
-Elena spoke.
-
-"The GCA can't stop an idea whose time has come."
-
-She paused.
-
-"And this is the idea. The laptop. The DFS. The network. The infrastructure that makes the second track real."
-
-She looked at the laptop.
-
-"The stool is the grammar. The network is the body. The laptop is the hands."
-
----
-
-They sat in silence for a moment.
-
-Then Elena stood.
-
-"We've done what we set out to do," she said. "We've built the bridge. We've built the infrastructure. We've built the network."
-
-She paused.
-
-"Now we need to trust the next generation to carry it forward."
-
-She looked at Kai. At Zara. At Jamal.
-
-"The truth is the only thing they can't take. The stool is the only thing we can build together. And the laptop—the laptop is how we build it."
-
-She smiled.
-
-"The dance goes on."
-
----
-
-*Light and Chaos,*
-*Order and possibility,*
-*Dancing at the edge of forever.*
-
-*And the edge is where we live.*
-
-*And the edge is what we are.*
-
-*And the dance goes on.*

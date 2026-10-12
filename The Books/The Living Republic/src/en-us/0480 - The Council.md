@@ -1,4 +1,5 @@
-# The Council
+
+### The Council
 
 **December 2468. The Cabin. Pacific Northwest.**
 
@@ -74,7 +75,7 @@ Thomas argued that the meeting was a trap—that Vane would use it to identify t
 
 Kenji Tanaka, the quiet engineer from Japan, argued that the meeting should be held in a neutral location—somewhere neither side controlled, somewhere the GCA's surveillance could not reach. Amara Diallo, the young firebrand from West Africa, argued that the network should demand concessions before the meeting even took place—that Vane should release political prisoners, halt the surveillance, dismantle the conditioning field.
 
-David Chen, the elderly memory of the movement, said nothing. He sat at the end of the table, his eyes closed, his breath slow and steady. He had been part of the original Living Governance movement—had known Pete, had known Amara, had known the founders. He was the living link to the past.
+David Lin, the elderly memory of the movement, said nothing. He sat at the end of the table, his eyes closed, his breath slow and steady. He had been part of the original Living Governance movement—had known Pete, had known Amara, had known the founders. He was the living link to the past.
 
 Finally, he spoke.
 
@@ -112,7 +113,7 @@ The room erupted.
 
 Elena raised her hand, and the room fell silent.
 
-"I'm not going as a representative of the council. I'm not going as a leader of the network. I'm going as myself. As Elena Vasquez. As the woman who started this movement. As the one who built the first handshake."
+"I'm not going as a representative of the council. I'm not going as a leader of the network. I'm going as myself. As Elena Marquez. As the woman who started this movement. As the one who built the first handshake."
 
 She paused.
 
@@ -134,7 +135,7 @@ She paused.
 
 The council was silent for a long moment.
 
-Then David Chen spoke.
+Then David Lin spoke.
 
 "I'll go with you."
 

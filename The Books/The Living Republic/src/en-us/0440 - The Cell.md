@@ -1,3 +1,4 @@
+
 ### The Cell
 
 **November 2468. Somewhere in the Pacific Northwest.**
@@ -16,7 +17,7 @@ Inside, seven people sat around a wooden table, illuminated by the soft glow of 
 
 They came from different backgrounds, different countries, different walks of life. But they shared one thing: they had all, at some point, been part of the Living Governance movement. And they had all refused to give up.
 
-Elena Vasquez sat at the head of the table.
+Elena Marquez sat at the head of the table.
 
 She was seventy-three years old—or rather, her body was; her mind had been enhanced with cognitive implants that kept her thinking sharp, her memory clear, her curiosity burning. She had been the movement's chief theorist before the consolidation, the one who had articulated the vision of the second track, the one who had inspired a generation of organizers and activists and dreamers.
 
@@ -32,7 +33,7 @@ And she had waited.
 
 ---
 
-"We can't keep meeting like this," said Jamal Okonkwo.
+"We can't keep meeting like this," said Jamal Nwosu.
 
 He was young—barely twenty-five—with the kind of intense focus that came from years of solitary work. He had been born into the GCA's system, educated in its schools, conditioned by its cognitive fields. But something in him had resisted. Something had always resisted.
 
@@ -122,7 +123,7 @@ Elena did the same.
 
 They exchanged tablets. Each scanned the other's QR code. The app displayed a prompt:
 
-*"Attest to identity of Elena Vasquez?"*
+*"Attest to identity of Elena Marquez?"*
 
 Jamal hesitated. This was the moment. The moment of trust.
 

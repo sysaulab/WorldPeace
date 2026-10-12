@@ -1,3 +1,5 @@
+
+
 ### The Meeting
 
 **January 2469. The Cabin. Pacific Northwest.**
@@ -10,7 +12,7 @@ Inside, the council was gathering.
 
 ---
 
-Elena Vasquez sat at the head of the table.
+Elena Marquez sat at the head of the table.
 
 She had been released three weeks ago—not through negotiation, not through exchange, but through something stranger. Marcus Vane had simply... let her go. He had signed the release order himself, had personally escorted her to the transport, had stood in the cold as she climbed aboard.
 
@@ -122,7 +124,7 @@ Kai spoke last.
 
 He had been quiet throughout the debate, listening, thinking. Now he leaned forward.
 
-"I was in the detention facility," he said. "I was interrogated by Chen Wei. She offered me a deal—give up the network, and Elena goes free."
+"I was in the detention facility," he said. "I was interrogated by Wei Lin. She offered me a deal—give up the network, and Elena goes free."
 
 He paused.
 

@@ -1,3 +1,4 @@
+
 ### The Recognition
 
 **August 2060. The Downtown Eastside. Vancouver.**
@@ -24,7 +25,7 @@ Maya noticed it first in the corner of the Great Hall—a woman sitting alone on
 
 Maya walked over to her.
 
-"Margaret?" she said. "Margaret Chen?"
+"Margaret?" she said. "Margaret Osei?"
 
 The woman looked up. Her eyes were pale blue, clouded with cataracts, but they still held a spark of recognition.
 
@@ -44,7 +45,7 @@ Margaret nodded slowly. She looked down at her device—at the reciprocal balanc
 
 Maya sat down beside her.
 
-Margaret Chen—no relation to Maya, though the shared surname had always been a source of amusement—had been one of the first members of the weave. She had been a teacher, once—a kindergarten teacher, beloved by generations of children in the Downtown Eastside. She had joined the Last Mile in 2032, when the first parcel was acquired. She had been there for the first handshake, the first dividend, the first tower.
+Margaret Osei—no relation to Maya, though the coincidence of their names had always been a source of amusement—had been one of the first members of the weave. She had been a teacher, once—a kindergarten teacher, beloved by generations of children in the Downtown Eastside. She had joined the Last Mile in 2032, when the first parcel was acquired. She had been there for the first handshake, the first dividend, the first tower.
 
 She had been married to a man named Henry for sixty years. Henry had died three years ago—a heart attack, sudden and unexpected. Margaret had never quite recovered. She had stopped coming to the assemblies. She had stopped cooking. She had stopped giving and receiving the reciprocal money.
 
@@ -114,7 +115,7 @@ Maya raised her hand, and the room gradually fell silent.
 
 She gestured to Margaret, who was still sitting in the corner, her device in her lap.
 
-"This is Margaret Chen. She was a teacher at the Downtown Eastside Elementary School for forty years. She taught your parents. She taught your grandparents. She taught some of you."
+"This is Margaret Osei. She was a teacher at the Downtown Eastside Elementary School for forty years. She taught your parents. She taught your grandparents. She taught some of you."
 
 A murmur ran through the room. People turned to look at Margaret—some with recognition, some with curiosity, some with the particular warmth that came from remembering a beloved teacher.
 
@@ -140,7 +141,7 @@ Then, slowly, people began to move.
 
 A woman in her fifties—a former student, now a teacher herself—walked to Margaret and knelt beside her chair.
 
-"Mrs. Chen," she said. "You taught me to read. You taught me to write. You told me I could be anything I wanted to be. I believed you. And I became a teacher—because of you."
+"Mrs. Osei," she said. "You taught me to read. You taught me to write. You told me I could be anything I wanted to be. I believed you. And I became a teacher—because of you."
 
 She took Margaret's hand.
 
@@ -148,7 +149,7 @@ She took Margaret's hand.
 
 A man in his forties—a former student, now a carpenter—walked to her next.
 
-"Mrs. Chen. You taught me that it was okay to make mistakes. You taught me that I could try again. You taught me that I was not stupid—that I was just learning."
+"Mrs. Osei. You taught me that it was okay to make mistakes. You taught me that I could try again. You taught me that I was not stupid—that I was just learning."
 
 He paused.
 
@@ -190,7 +191,7 @@ She walked to Yuki's stall. Yuki was seventy-eight now—old, but still working,
 
 "Yuki," Margaret said. "I want to give you this."
 
-She transferred ten dollars in reciprocal money—the same amount Yuki had given to Mrs. Chen on the day of the first dividend, thirty years ago.
+She transferred ten dollars in reciprocal money—the same amount Yuki had given to Mrs. Osei on the day of the first dividend, thirty years ago.
 
 Yuki looked at her device. Then she looked at Margaret.
 

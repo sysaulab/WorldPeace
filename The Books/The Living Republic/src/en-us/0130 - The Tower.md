@@ -1,5 +1,5 @@
 
-### Chapter 13: The Tower
+### The Tower
 
 **September 2038. Railtown. Vancouver.**
 

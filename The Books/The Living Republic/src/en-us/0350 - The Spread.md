@@ -1,3 +1,4 @@
+
 ### The Spread
 
 **June 2050. The Atlantic Megacity. Sector 7.**
@@ -62,7 +63,7 @@ Elias was silent for a moment. Then he said: "What do you want me to do?"
 
 ---
 
-The second was a woman named Sarah.
+The second was a woman named Sarah Cohen.
 
 She was young—younger than Amara, maybe twenty. She had been born after the quarantine, after the dampening. She had never known a world without the sealed cities, without the managed lives, without the quiet.
 
@@ -76,7 +77,7 @@ He sat down beside her. He pulled out the booklet. He began to read.
 
 *"Peace is not a destination. It is a state of mind. It is the quality of attention you bring to a conversation, the speed with which you repair a misunderstanding, the curiosity you hold for a stranger's story, the gentleness with which you touch what is fragile."*
 
-Sarah looked at him. Her eyes were sharp—sharper than any of the dampened, sharper than anyone he had met since Amara.
+Sarah Cohen looked at him. Her eyes were sharp—sharper than any of the dampened, sharper than anyone he had met since Amara.
 
 "What is that?" she asked.
 

@@ -1,3 +1,4 @@
+
 ### The Isolation Signal
 
 **November 2062. The Downtown Eastside. Vancouver.**
@@ -20,7 +21,7 @@ The member was a man named Thomas Park.
 
 He was seventy-four years old—a retired carpenter, a widower, a long-time member of the weave. He had joined the Last Mile in 2035, when the first towers were built. He had helped construct The Threshold—had spent two years of his life framing walls, installing windows, building the bones of the community that would become his home.
 
-He had been married to a woman named Sarah for forty years. Sarah had died in 2058—a stroke, sudden and unexpected. Thomas had never quite recovered. He had stopped coming to the assemblies. He had stopped working in the fabrication shop. He had stopped giving and receiving the reciprocal money.
+He had been married to a woman named Sarah Cohen for forty years. Sarah Cohen had died in 2058—a stroke, sudden and unexpected. Thomas had never quite recovered. He had stopped coming to the assemblies. He had stopped working in the fabrication shop. He had stopped giving and receiving the reciprocal money.
 
 The isolation signal had been tracking him for six weeks.
 
@@ -72,7 +73,7 @@ He hesitated. Then he stepped back, and she entered.
 
 The apartment was clean but empty.
 
-It had been furnished once—Maya remembered visiting, years ago, when Sarah was still alive. There had been books on the shelves, photographs on the walls, plants on the windowsill. There had been life.
+It had been furnished once—Maya remembered visiting, years ago, when Sarah Cohen was still alive. There had been books on the shelves, photographs on the walls, plants on the windowsill. There had been life.
 
 Now the shelves were bare. The photographs were gone. The plants were dead.
 
@@ -90,7 +91,7 @@ She looked at him. He was standing, still, like a man who had forgotten how to s
 
 "Thomas," she said. "When did you stop giving?"
 
-He was silent for a long moment. Then he said: "After Sarah died."
+He was silent for a long moment. Then he said: "After Sarah Cohen died."
 
 "Why?"
 
@@ -202,7 +203,7 @@ They sat in the garden for a long time.
 
 The sun set. The stars appeared. The moon rose over the mountains—a sliver of silver in the darkness.
 
-Thomas talked. He talked about Sarah—the woman he had loved for forty years, the woman who had died too soon. He talked about the towers—the buildings he had helped construct, the homes he had helped create. He talked about the apprentices—the young people he had taught, the skills he had passed on.
+Thomas talked. He talked about Sarah Cohen—the woman he had loved for forty years, the woman who had died too soon. He talked about the towers—the buildings he had helped construct, the homes he had helped create. He talked about the apprentices—the young people he had taught, the skills he had passed on.
 
 He talked about the future.
 

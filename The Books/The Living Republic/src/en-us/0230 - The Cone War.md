@@ -35,7 +35,7 @@ He looked around the room. His eyes landed on the part-time employee from the De
 
 The Hotel Manager was outraged.
 
-Her name was Margaret Okonkwo—no relation to David Okonkwo, the union organizer in Vancouver, though the coincidence had always amused her. She was seventy-two years old, had been running the Sillycone Hotel for forty years, and had strong opinions about almost everything.
+Her name was Margaret Osei—no relation to David Okonkwo, the union organizer in Vancouver, though the coincidence of their West African names had always amused her. She was seventy-two years old, had been running the Sillycone Hotel for forty years, and had strong opinions about almost everything.
 
 She stood in the Director's office, her arms crossed, her face flushed with anger.
 
@@ -45,7 +45,7 @@ The Director blinked. "Excuse me?"
 
 "The cones. You want to cut the cone budget. I'm telling you no."
 
-The Director leaned back in his chair. He had been dealing with Margaret Okonkwo for thirty years—had dealt with her when he was a junior administrator, had dealt with her when he was promoted, had dealt with her when he became Director. She had never been afraid of him. She had never been impressed by him. She had never treated him as anything other than a nuisance.
+The Director leaned back in his chair. He had been dealing with Margaret Osei for thirty years—had dealt with her when he was a junior administrator, had dealt with her when he was promoted, had dealt with her when he became Director. She had never been afraid of him. She had never been impressed by him. She had never treated him as anything other than a nuisance.
 
 "The cone budget is discretionary," he said. "The cones serve no operational purpose. They are a relic of the original cover story. We don't need them anymore."
 
@@ -97,7 +97,7 @@ She turned and walked out of the office.
 
 The cone budget was saved.
 
-It was not the largest line item in the Program's budget. It was not the most important. It was not the most visible. But it was the one that mattered the most—at least to Margaret Okonkwo, who had spent forty years defending her town against the forces that wanted to expose it, dismantle it, destroy it.
+It was not the largest line item in the Program's budget. It was not the most important. It was not the most visible. But it was the one that mattered the most—at least to Margaret Osei, who had spent forty years defending her town against the forces that wanted to expose it, dismantle it, destroy it.
 
 The Director had learned a lesson that day. It was a lesson about bureaucracy, about inertia, about the strange ways that systems survived long past the point when they should have collapsed. It was a lesson about the cones—those ridiculous, battered, ubiquitous cones—that had become the most important security measure in the Program's history.
 

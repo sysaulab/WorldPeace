@@ -7,7 +7,7 @@ The slides had gotten beautiful.
 
 Katherine Vance stood at the back of the presentation room, watching her team put the finishing touches on the quarterly deck. The room was state-of-the-art now—holographic projectors, immersive displays, a sound system that could make the audience feel like they were standing in a forest or swimming through a coral reef. The budget for the presentation alone was larger than the entire operating budget of the town twenty years ago.
 
-The slides themselves were works of art. Literally. Katherine had hired designers from Disney, from Pixar, from the advertising agencies on Madison Avenue. She had hired poets to write the narration, composers to score the music, cinematographers to film the footage. She had turned the quarterly presentation into a production—a performance, a spectacle, a piece of theatre that would make the Cataloguers feel something.
+The slides themselves were works of art. Literally. Katherine had hired designers from the advertising agencies on Madison Avenue. She had hired poets to write the narration, composers to score the music, cinematographers to film the footage. She had turned the quarterly presentation into a production—a performance, a spectacle, a piece of theatre that would make the Cataloguers feel something.
 
 The only problem was that the numbers were lies.
 

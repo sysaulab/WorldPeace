@@ -1,3 +1,4 @@
+
 ### The Peace
 
 **June 2200. The City That Appears on Every Map.**
@@ -36,11 +37,11 @@ Below the photograph, a single line:
 
 A young woman stood before the display case.
 
-Her name was Amara—not the Amara who had died in 2160, but a descendant, a namesake, a girl of twenty who had grown up in the city that appeared on every map. She had heard the stories—the quarantine, the dampening, the Witnesses. She had read the booklet, the journal, the transcript. She had learned the three tools—the short loop, the open question, the fragile shield.
+Her name was Amara—not the Amina who had died in 2160, but a descendant of hers, a girl of twenty who had grown up in the city that appeared on every map. She had heard the stories—the quarantine, the dampening, the Witnesses. She had read the booklet, the journal, the transcript. She had learned the three tools—the short loop, the open question, the fragile shield.
 
 She had learned the stool.
 
-She stood before the case, looking at the photograph of Pete and the Emissary. She thought about the journey—the alley, the booklet, the network, the garden. She thought about the people who had carried the truth across generations—Miriam Vance, Katherine Vance, Ellie Vance, Pete, Amara, Maya. She thought about the future.
+She stood before the case, looking at the photograph of Pete and the Emissary. She thought about the journey—the alley, the booklet, the network, the garden. She thought about the people who had carried the truth across generations—Miriam Vance, Katherine Vance, Ellie Vance, Pete, Amina, Maya. She thought about the future.
 
 She was the inheritor now. The keeper of the seed. And she had a decision to make.
 
@@ -299,55 +300,3 @@ They watched the communities govern themselves. They watched the networks hold t
 They watched.
 
 And they learned.
-
----
-
-**Epilogue: The Library**
-
-**Year 2300. The City That Appears on Every Map.**
-
-The library was quiet.
-
-A young woman stood before the display case. Her name was Maya—not the Maya who had found the truth in 2100, not the Maya who had built the Last Mile in 2030, but a descendant, a namesake, a girl of twenty who had grown up in the city that appeared on every map.
-
-She had heard the stories—the quarantine, the dampening, the Witnesses. She had read the booklet, the journal, the transcript. She had learned the three tools—the short loop, the open question, the fragile shield.
-
-She had learned the stool.
-
-She stood before the case, looking at the photograph of Pete and the Emissary. She thought about the journey—the alley, the booklet, the network, the garden. She thought about the people who had carried the truth across generations—Miriam Vance, Katherine Vance, Ellie Vance, Pete, Amara, Maya. She thought about the future.
-
-She was the inheritor now. The keeper of the seed. And she had a decision to make.
-
----
-
-The decision was simple.
-
-She would continue. She would keep building. She would keep sharing. She would keep practicing the stool. She would protect the fragile and tell the truth.
-
-She would plant seeds.
-
-She took out her device. She opened the app. She looked at the network—the millions of nodes, the billions of attestations, the countless gifts of recognition.
-
-She scrolled through the network, looking at the names, the faces, the stories. She saw people she had known for years. She saw people she had never met. She saw the future.
-
-She put away her device. She looked at the display case—the booklet, the journal, the data drive. She looked at the photograph—Pete, the Emissary, the garden. She looked at the caption:
-
-*The truth is the only thing they can't take.*
-
-*The stool is the only thing we can build together.*
-
-She smiled.
-
-And she walked out of the library, into the city, into the future.
-
----
-
-*Light and Chaos,*
-*Order and possibility,*
-*Dancing at the edge of forever.*
-
-*And the edge is where we live.*
-
-*And the edge is what we are.*
-
-*And the dance goes on.*

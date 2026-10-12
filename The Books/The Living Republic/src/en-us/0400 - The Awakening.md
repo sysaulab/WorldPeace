@@ -1,10 +1,11 @@
+
 ### The Awakening
 
 **June 2150. The Atlantic Megacity. Sector 7.**
 
 The first sign was the birds.
 
-Amara noticed them at dawn—a small flock of sparrows, perched on the rusted frame of a collapsed building, their wings still, their heads turning. They had not been there the day before. They had not been there for years.
+Amina noticed them at dawn—a small flock of sparrows, perched on the rusted frame of a collapsed building, their wings still, their heads turning. They had not been there the day before. They had not been there for years.
 
 She stood at the edge of the garden—the ruins of the garden, the place where the oak stump still stood, the place where Pete had died, the place where the seeds had been planted. She had been tending the garden for fifty years—ever since Pete had died, ever since she had taken up the work. She had watered it with greywater from the shelter. She had protected it from the dampened who sometimes wandered through the ruins, their eyes vacant, their hands reaching for anything that might fill the emptiness. She had watched it grow—slowly, stubbornly, green shoots pushing through the cracked earth.
 
@@ -16,7 +17,7 @@ They were a sign.
 
 ---
 
-Amara was old now—eighty-seven years old, her hair white, her face lined, her body frail. She walked with a stick—a piece of driftwood that Pete had given her, smoothed by years of use. She tired easily. She slept poorly. She knew, with the certainty that came from a long life, that she did not have much time left.
+Amina was old now—eighty-seven years old, her hair white, her face lined, her body frail. She walked with a stick—a piece of driftwood that Pete had given her, smoothed by years of use. She tired easily. She slept poorly. She knew, with the certainty that came from a long life, that she did not have much time left.
 
 But she was not afraid.
 
@@ -48,7 +49,7 @@ They were waking up.
 
 ---
 
-Amara walked through the city.
+Amina walked through the city.
 
 It was still beautiful—the sealed city, the managed city. The buildings were tall and elegant, the streets were clean, the parks were green. The dampened walked slowly, their eyes vacant, their hands still. They smiled at each other. They stopped to talk, to laugh, to share a moment of connection. They did not hurry. They did not worry. They did not fear.
 
@@ -60,7 +61,7 @@ A man sat on a bench, a book open in his lap. He was reading—not with the blur
 
 A child—a young girl, maybe five, maybe six—was drawing in the dirt with a stick. She was drawing a tree. Not a schematic, not a symbol, but a tree. With branches. With leaves. With roots.
 
-Amara stopped. She watched the child. She thought about the garden—the oak stump, the soil, the green shoots.
+Amina stopped. She watched the child. She thought about the garden—the oak stump, the soil, the green shoots.
 
 She thought about the future.
 
@@ -68,7 +69,7 @@ She thought about the future.
 
 The Emissary appeared at noon.
 
-Amara was sitting on a bench in the park—the same park where Pete had found the booklet, all those years ago. She was tired. She had walked too far. Her joints ached, her breath was short, her heart was heavy.
+Amina was sitting on a bench in the park—the same park where Pete had found the booklet, all those years ago. She was tired. She had walked too far. Her joints ached, her breath was short, her heart was heavy.
 
 But she was not afraid.
 
@@ -76,11 +77,11 @@ The light gathered slowly—not a flash, not a beam, but a presence. A woman mad
 
 She was the same as she had always been—tall, slender, her skin the color of dark soil, her eyes carrying an ancient, patient sadness. She had not aged. She had not changed.
 
-"Amara," she said.
+"Amina," she said.
 
 "Emissary."
 
-She sat beside Amara—not on the bench, but simply present. She looked at the park—the green grass, the tall trees, the fountain where the woman had touched her face. She looked at the city—the sealed city, the managed city, the waking city.
+She sat beside Amina—not on the bench, but simply present. She looked at the park—the green grass, the tall trees, the fountain where the woman had touched her face. She looked at the city—the sealed city, the managed city, the waking city.
 
 "You have seen," she said.
 
@@ -100,13 +101,13 @@ She paused.
 
 "The test was not about passing or failing. The test was about learning. The test was about growing. The test was about becoming something new."
 
-She looked at Amara.
+She looked at Amina.
 
 "The Cataloguers have decided to give you another chance."
 
 ---
 
-Amara stared at her.
+Amina stared at her.
 
 "Another chance?"
 
@@ -120,13 +121,13 @@ She paused.
 
 "You must continue. You must keep building. You must keep sharing. You must keep practicing the stool. The Cataloguers will be watching—not to judge, but to learn. They want to see if you can govern yourselves. If you can live in peace. If you can protect the fragile and tell the truth."
 
-She looked at Amara.
+She looked at Amina.
 
 "They want to see if you can be free."
 
 ---
 
-Amara was silent for a long moment.
+Amina was silent for a long moment.
 
 She thought about the journey. The shelter. The booklet. The Emissary. The transcript. The network. The Witnesses. The garden.
 
@@ -142,17 +143,17 @@ She paused.
 
 "They will say you're crazy. They will say you made it all up. They will say the same about the booklet. The same about the stool. They will say it about anyone who challenges the silence."
 
-Amara nodded slowly.
+Amina nodded slowly.
 
 "So why bother?"
 
-The Emissary smiled—a real smile, the first Amara had ever seen on her face.
+The Emissary smiled—a real smile, the first Amina had ever seen on her face.
 
-"Because peace is not a destination, Amara. It is a stool we are still learning to sit on, side by side, without falling. And every voice that refuses to be silent is another leg."
+"Because peace is not a destination, Amina. It is a stool we are still learning to sit on, side by side, without falling. And every voice that refuses to be silent is another leg."
 
 ---
 
-Amara sat on the bench for a long time after the Emissary left.
+Amina sat on the bench for a long time after the Emissary left.
 
 She held the booklet in her hand. She thought about the words the Emissary had spoken. She thought about the quarantine, the dampening, the managed lives. She thought about the second chance.
 
@@ -168,13 +169,13 @@ She thought about the future.
 
 ---
 
-That evening, Amara gathered the Witnesses in the ruins.
+That evening, Amina gathered the Witnesses in the ruins.
 
 They came slowly—the ones who could still move, the ones who had not fully let go. They came from the shelter, from the tunnels, from the ruins. They came because they remembered. Because they had not let go. Because they had always known that something was missing.
 
 There were many of them now—thousands, scattered across the city, connected by the network, bound by the truth. They sat among the ruins, their hands in the soil, their voices low. They waited for her to speak.
 
-Amara stood at the edge of the garden. She looked at the faces around her—the old and the young, the tired and the hopeful, the ones who had been with her from the beginning and the ones who had joined only yesterday.
+Amina stood at the edge of the garden. She looked at the faces around her—the old and the young, the tired and the hopeful, the ones who had been with her from the beginning and the ones who had joined only yesterday.
 
 "I saw her again," she said. "The Emissary."
 
@@ -206,7 +207,7 @@ Then one of them—a young woman, barely twenty, her eyes alive and awake—spok
 
 "How do we do it?"
 
-Amara looked at her.
+Amina looked at her.
 
 "We keep doing what we've been doing. We share the truth. We build the network. We practice the stool. We protect the fragile. We tell the story."
 
@@ -240,7 +241,7 @@ They planted seeds.
 
 ---
 
-Amara died in 2160—peacefully, in the garden, her back against the oak stump, the booklet in her hand. The Witnesses buried her beneath the tree, beside Pete. They planted a new sapling—a small, fragile thing—and they watered it with greywater from the shelter, carried in buckets across the ruins.
+Amina died in 2160—peacefully, in the garden, her back against the oak stump, the booklet in her hand. The Witnesses buried her beneath the tree, beside Pete. They planted a new sapling—a small, fragile thing—and they watered it with greywater from the shelter, carried in buckets across the ruins.
 
 They kept doing what she had taught them.
 

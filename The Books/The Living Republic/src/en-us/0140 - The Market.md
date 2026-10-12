@@ -63,7 +63,7 @@ Yuki smiled. "Thank you. That's the point."
 
 ---
 
-Marcus Okonkwo stood in the community kitchen, teaching a class on bread making.
+Marcus Silva stood in the community kitchen, teaching a class on bread making.
 
 He had been with the Last Mile for six years now—ever since the fire, ever since he had volunteered to help rebuild the fabrication shop. He had discovered something about himself in those months—something he had never known. He was good at building things. Not just buildings, but systems. Processes. Communities.
 
@@ -79,7 +79,7 @@ He looked around the room at the faces of his students—young and old, members 
 
 ---
 
-Amara Diallo stood at the entrance to the Market, greeting visitors.
+Amara Osei stood at the entrance to the Market, greeting visitors.
 
 She had been homeless for three years before she joined the weave. She had slept in shelters, in alleys, in doorways. She had been invisible—one of the thousands of people the city had forgotten.
 

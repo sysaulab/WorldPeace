@@ -1,16 +1,17 @@
+
 ### The Offer
 
 **December 2468. GCA Headquarters. New Geneva.**
 
 Marcus Vane sat alone in his office, the lights dimmed, the city glittering below him through the floor-to-ceiling windows.
 
-He had been reading the reports for hours—the surveillance logs, the analysis from Chen's team, the projections from the economic and social stability divisions. The data painted a picture that was, by any measure, troubling.
+He had been reading the reports for hours—the surveillance logs, the analysis from Wei's team, the projections from the economic and social stability divisions. The data painted a picture that was, by any measure, troubling.
 
 The PeerID network was growing. Not rapidly—not in a way that would alarm anyone who didn't know what to look for. But steadily, inexorably, like water seeping through cracks in a foundation. It had spread from the Pacific Northwest to California, from California to the Midwest, from the Midwest to the Eastern Seaboard. It had crossed the Atlantic. It had appeared in Europe, in Africa, in Asia.
 
 It was small—perhaps fifty thousand nodes, scattered across the planet. But it was growing. And it was resilient.
 
-Chen's cognitive drift technique was working—slowly, imperceptibly—but it was not enough. It could nudge individual decisions, tilt individual votes. It could not stop the network from spreading. It could not stop the idea whose time had come.
+Wei's cognitive drift technique was working—slowly, imperceptibly—but it was not enough. It could nudge individual decisions, tilt individual votes. It could not stop the network from spreading. It could not stop the idea whose time had come.
 
 Vane had spent his career building systems. He understood systems. He understood that the most dangerous threats were not the ones that attacked directly, but the ones that made your systems irrelevant. PeerID was not attacking the GCA. It was simply building an alternative. And if it succeeded, the GCA would become what it had always feared: a centralized authority that no one needed.
 
@@ -40,7 +41,7 @@ He sat in the darkness, thinking.
 
 ---
 
-Chen Wei found him there an hour later.
+Wei Lin found him there an hour later.
 
 She stood in the doorway, her expression unreadable. She had been working on the cognitive drift technique for months—refining it, testing it, preparing it for deployment. But she had not reported success. She had not told him that it was ready.
 
@@ -66,7 +67,7 @@ He paused.
 
 "Eventually, the GCA will become irrelevant."
 
-Chen was silent for a long moment. Then she said: "What do you want to do?"
+Wei was silent for a long moment. Then she said: "What do you want to do?"
 
 Vane looked at her. She was loyal—or at least, she had been conditioned to be. But he had learned long ago that loyalty was not the same as agreement. She had doubts. He could see them in her eyes.
 
@@ -76,7 +77,7 @@ Vane looked at her. She was loyal—or at least, she had been conditioned to be.
 
 "I want to talk to them."
 
-Chen blinked. "Talk to them?"
+Wei blinked. "Talk to them?"
 
 "The network. The leaders. The ones who built PeerID."
 
@@ -88,7 +89,7 @@ He turned to look at her.
 
 "I want to meet with them. Face to face. No weapons. No surveillance. Just a conversation."
 
-Chen stared at him. "You want to negotiate with terrorists."
+Wei stared at him. "You want to negotiate with terrorists."
 
 "I want to negotiate with builders. There's a difference."
 
@@ -104,13 +105,13 @@ He paused.
 
 "They're not trying to destroy us. They're trying to replace us. Not with a government. Not with an empire. With a network. A community. A way of being together that doesn't require a central authority."
 
-He looked at Chen.
+He looked at Wei.
 
 "And maybe they're right. Maybe the world doesn't need the GCA. Maybe it never did."
 
 ---
 
-Chen was silent for a long moment.
+Wei was silent for a long moment.
 
 She thought about the surveillance center. She thought about the conditioning field. She thought about the cognitive drift technique—the weapon she had built, the weapon she had not yet deployed.
 
@@ -140,7 +141,7 @@ Vane smiled—a tired, fragile smile.
 
 The message was sent three days later.
 
-It was transmitted through back channels—not through the GCA's official systems, but through the network itself. Chen had found a way to route it through the PeerID protocol, using the same encryption and attestation systems the network used.
+It was transmitted through back channels—not through the GCA's official systems, but through the network itself. Wei had found a way to route it through the PeerID protocol, using the same encryption and attestation systems the network used.
 
 The message was simple:
 
@@ -152,7 +153,7 @@ The network received the message with suspicion. Some members argued that it was
 
 In the end, the decision was made by the council—the twelve members who had been chosen to represent the network, to speak for the communities, to make decisions that affected everyone.
 
-Elena Vasquez was one of them.
+Elena Marquez was one of them.
 
 She had been surprised by the message. She had been even more surprised by the content. She had expected Vane to try to destroy them. She had not expected him to try to negotiate.
 

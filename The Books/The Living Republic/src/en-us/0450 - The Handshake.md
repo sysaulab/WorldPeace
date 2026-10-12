@@ -1,3 +1,4 @@
+
 ### The Handshake
 
 **November 2468. The Underground District. Seattle.**
@@ -54,7 +55,7 @@ She was older than him—maybe fifty, maybe sixty—with graying hair and sharp 
 
 "Who wants to know?"
 
-She smiled. "My name is Elena Vasquez. I'm here because I think you can help us."
+She smiled. "My name is Elena Marquez. I'm here because I think you can help us."
 
 "Us?"
 
@@ -76,7 +77,7 @@ She reached into her bag and pulled out a small device—a modified phone, runni
 
 Kai stared at the device. "You invented this?"
 
-"A young man named Jamal Okonkwo. He's a genius. He's been working on it for years."
+"A young man named Jamal Nwosu. He's a genius. He's been working on it for years."
 
 "And it works?"
 

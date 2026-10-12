@@ -1,8 +1,9 @@
+
 ### The Converge
 
 **June 2100. The Atlantic Megacity. Sector 7.**
 
-The journal was heavy in Maya's hands.
+The journal was heavy in Maya Adeyemi's hands.
 
 She had been sitting in the ruins of the garden for hours—ever since she had found the oak stump, ever since she had dug beneath it, ever since she had uncovered the journal and the data drive and the booklet. The sun had moved across the sky. The shadows had lengthened. The dampened had walked past her without seeing her—their eyes vacant, their minds soft, their hearts still.
 
@@ -58,7 +59,7 @@ A woman near the front—thin, grey-haired, with hollow eyes—spoke.
 
 "What is that?"
 
-Maya looked at her.
+Maya Adeyemi looked at her.
 
 "It's a booklet. I found it in the ruins."
 
@@ -68,11 +69,11 @@ Maya looked at her.
 
 She handed the booklet to the woman. The woman read the first page. Then the second. Then the third. She read the entire thing—slowly, painfully, her lips moving, her breath catching.
 
-When she finished, she looked up at Maya. Her eyes were wet.
+When she finished, she looked up at Maya Adeyemi. Her eyes were wet.
 
 "This is what I've been missing," she whispered.
 
-Maya nodded.
+Maya Adeyemi nodded.
 
 "There's more," she said. She pulled out the journal. She pulled out the transcript. She pulled out the data drive.
 
@@ -106,7 +107,7 @@ He stood up. He walked over to her. He sat down beside her.
 
 ---
 
-Maya looked at him.
+Maya Adeyemi looked at him.
 
 He was young—maybe twenty-five, maybe thirty. He was thin, hungry, tired. But his eyes were alive. His eyes were awake.
 
@@ -118,7 +119,7 @@ He paused.
 
 "I remember my grandmother."
 
-Maya was silent for a moment. Then she said: "How?"
+Maya Adeyemi was silent for a moment. Then she said: "How?"
 
 "I don't know. I was young when it happened. I was... I was five, maybe. I was in the city when the dampening came. I felt it—the warmth, the softness, the quiet. I felt it trying to take me."
 
@@ -136,7 +137,7 @@ He looked at her.
 
 ---
 
-Maya looked at him.
+Maya Adeyemi looked at him.
 
 She thought about the booklet—the thin, worn volume that Pete had carried in his pocket, that the Witnesses had copied and recopied, that had spread through the dampened world. She thought about the transcript—the yellowed, cracked page that Miriam Vance had written in 1947. She thought about the journal—the leather-bound book that Katherine Vance had kept hidden for fifty years.
 
@@ -156,13 +157,13 @@ He looked up at her.
 
 "What is this?"
 
-"I don't know," Maya said. "But I think it's the beginning."
+"I don't know," Maya Adeyemi said. "But I think it's the beginning."
 
 ---
 
 They stayed up all night.
 
-Maya told Tomas everything—the journal, the transcript, the data drive, the booklet. She told him about the Cataloguers, the quarantine, the dampening. She told him about Miriam Vance, Katherine Vance, Ellie Vance. She told him about Pete, the Emissary, the Witnesses. She told him about the garden, the oak tree, the seeds.
+Maya Adeyemi told Tomas everything—the journal, the transcript, the data drive, the booklet. She told him about the Cataloguers, the quarantine, the dampening. She told him about Miriam Vance, Katherine Vance, Ellie Vance. She told him about Pete, the Emissary, the Witnesses. She told him about the garden, the oak tree, the seeds.
 
 Tomas listened. He asked questions. He challenged assumptions. He made connections.
 
@@ -178,7 +179,7 @@ He paused.
 
 "We need to bring them together. We need to build something. Something the dampening can't touch. Something that can survive."
 
-Maya was silent for a moment. Then she said: "The stool."
+Maya Adeyemi was silent for a moment. Then she said: "The stool."
 
 "What?"
 
@@ -198,7 +199,7 @@ Some people listened. Most did not. The dampening was strong—it had softened t
 
 But a few listened. A few remembered. A few joined.
 
-By the end of the first week, there were five of them—Maya, Tomas, and three others. By the end of the first month, there were twenty. By the end of the first year, there were two hundred.
+By the end of the first week, there were five of them—Maya Adeyemi, Tomas, and three others. By the end of the first month, there were twenty. By the end of the first year, there were two hundred.
 
 They met in secret—in the ruins, in the tunnels, in the places the dampening did not reach. They shared the transcript. They shared the booklet. They told the story.
 
@@ -218,7 +219,7 @@ And it grew.
 
 ---
 
-Maya sat in the ruins of the garden, the journal in her lap, the booklet in her hand.
+Maya Adeyemi sat in the ruins of the garden, the journal in her lap, the booklet in her hand.
 
 She was older now—thirty-five, maybe forty, her hair streaked with grey, her eyes still sharp, still curious, still awake. She had been leading the network for years—ever since she had found the journal, ever since she had read the truth, ever since she had decided to share it.
 
@@ -242,7 +243,7 @@ He was older now too—forty-five, maybe fifty, his hair white, his face lined, 
 
 "It is. But we need to be careful. The GCA is tightening its control. They know something is happening—they can feel it. They're looking for us."
 
-Maya nodded slowly.
+Maya Adeyemi nodded slowly.
 
 "They're using directed energy. The whispers. The nudges. They're trying to find the witnesses."
 
@@ -276,7 +277,7 @@ She looked at the garden—the ruins, the oak stump, the soil.
 
 ---
 
-That night, Maya sat alone in the garden.
+That night, Maya Adeyemi sat alone in the garden.
 
 She thought about the journey. The ruins. The oak stump. The journal. The transcript. The booklet. The network. The witnesses.
 
@@ -309,8 +310,6 @@ And the truth remained.
 And somewhere, in the garden at the edge of the ruins, beneath the old oak stump, a seed was waiting to be found.
 
 ---
-
-**Epilogue: The Convergence**
 
 **Year 2468. New Geneva. The Global Coordination Authority Headquarters.**
 

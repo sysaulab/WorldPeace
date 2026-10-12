@@ -1,3 +1,5 @@
+
+
 ### The Watcher
 
 **November 2468. GCA Surveillance Center. New Geneva.**
@@ -10,7 +12,7 @@ It was the largest surveillance operation in human history. And it was, by any m
 
 But it had a blind spot.
 
-Director Chen Wei stood at the back of the room, watching the analysts work. Her own implants were feeding her a stream of data, but she had learned to filter it, to focus on what mattered.
+Director Wei Lin stood at the back of the room, watching the analysts work. Her own implants were feeding her a stream of data, but she had learned to filter it, to focus on what mattered.
 
 The blind spot was PeerID.
 
@@ -44,17 +46,17 @@ The network, it seemed, was immune to infiltration. Not because of any technolog
 
 ---
 
-Chen had reported her findings to Vane.
+Wei had reported her findings to Vane.
 
 She had expected him to be angry, or at least frustrated. But he had been strangely calm. He had listened to her analysis, asked a few questions, and then nodded.
 
 "The network is immune to infiltration," he had said. "But is it immune to influence?"
 
-Chen had paused. "What do you mean?"
+Wei had paused. "What do you mean?"
 
 "The conditioning field. The cognitive tools. The Directed Thought Initiative. Can we use them to shape the network from within?"
 
-Chen had considered the question. Then she had answered honestly.
+Wei had considered the question. Then she had answered honestly.
 
 "I don't know. The network is decentralized. It's built on trust. If we could find a way to influence the nodes—the people—we might be able to shape the network's behavior. But it would be slow. And it would be risky. The members are vigilant. They've developed countermeasures—cognitive attestation protocols, mental checks—that make them resistant to influence."
 
@@ -72,7 +74,7 @@ Vane had been silent for a long moment. Then he had said: "Find a way around it.
 
 That was the order. *Find a way around it.*
 
-Chen had been working on it ever since.
+Wei had been working on it ever since.
 
 She had consulted with the GCA's top cognitive scientists, its best neuroscientists, its most creative engineers. She had explored every angle—directed energy, memetic insertion, emotional contagion, subliminal priming. She had run simulations, conducted experiments, tested prototypes.
 
@@ -90,11 +92,11 @@ And it was almost impossible to detect.
 
 ---
 
-Chen had tested it on a small group of subjects—volunteers from the GCA's own staff, who had been told they were participating in a study on decision-making. She had exposed them to the cognitive drift technique for a week, then asked them to make a series of choices.
+Wei had tested it on a small group of subjects—volunteers from the GCA's own staff, who had been told they were participating in a study on decision-making. She had exposed them to the cognitive drift technique for a week, then asked them to make a series of choices.
 
 The results were... suggestive.
 
-The subjects had shown a slight but statistically significant bias toward the outcomes Chen had been nudging them toward. They hadn't noticed the influence. They hadn't felt manipulated. They had simply... chosen differently.
+The subjects had shown a slight but statistically significant bias toward the outcomes Wei had been nudging them toward. They hadn't noticed the influence. They hadn't felt manipulated. They had simply... chosen differently.
 
 It was a small effect. A few percentage points. But it was enough.
 
@@ -102,7 +104,7 @@ Enough to tip a close vote. Enough to shift a close decision. Enough to shape th
 
 ---
 
-Chen had not told Vane about the technique yet.
+Wei had not told Vane about the technique yet.
 
 She wasn't sure why. Maybe she wanted to be certain before she reported. Maybe she wanted to understand it better. Maybe she was afraid of what it meant.
 
@@ -110,7 +112,7 @@ The cognitive drift technique was not mind control. It was not brainwashing. It 
 
 But it was still a weapon. A weapon that could be used to manipulate people without their knowledge or consent. A weapon that could undermine the very principles the GCA claimed to stand for.
 
-Chen thought about the oath she had taken when she joined the GCA. *To protect humanity. To preserve the peace. To serve the greater good.*
+Wei thought about the oath she had taken when she joined the GCA. *To protect humanity. To preserve the peace. To serve the greater good.*
 
 She thought about the cognitive attestation protocol. The members of the PeerID network had developed it to protect themselves from influence. They had recognized the danger. They had built a defense.
 

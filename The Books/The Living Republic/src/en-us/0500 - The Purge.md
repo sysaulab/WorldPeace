@@ -1,4 +1,4 @@
-# The Purge
+### The Purge
 
 **January 2469. The Underground District. Seattle.**
 
@@ -72,7 +72,7 @@ The door opened. A woman entered.
 
 She was in her forties—sharp, efficient, with the kind of calm that came from years of interrogating prisoners. She wore the uniform of the GCA Security Forces, but her insignia was different—a small silver pin that marked her as part of the internal security division.
 
-"Kai Nakamura," she said. "I'm Director Chen Wei."
+"Kai Nakamura," she said. "I'm Director Wei Lin."
 
 Kai looked at her. "I know who you are."
 
@@ -94,7 +94,7 @@ Kai said nothing.
 
 Kai waited.
 
-Chen leaned forward.
+Wei leaned forward.
 
 "The network is growing. We can't stop it. Not with surveillance. Not with conditioning. Not with force. You've built something that's resistant to all of our tools."
 
@@ -110,11 +110,11 @@ Kai felt a chill run down his spine.
 
 "And if I refuse?"
 
-Chen was silent for a moment. Then she said: "The purge has already begun. We've raided three locations in the past six hours. We've arrested twelve people. We're tracking dozens more."
+Wei was silent for a moment. Then she said: "The purge has already begun. We've raided three locations in the past six hours. We've arrested twelve people. We're tracking dozens more."
 
 She paused.
 
-"Elena Vasquez is one of them."
+"Elena Marquez is one of them."
 
 ---
 
@@ -124,7 +124,7 @@ Kai felt the world stop.
 
 "In custody. She was arrested at the cabin two hours ago. She's being transported to a detention facility. She will be interrogated. She will be tried. She will be convicted."
 
-Chen leaned forward.
+Wei leaned forward.
 
 "She will spend the rest of her life in a cell. Unless you help us."
 
@@ -152,11 +152,11 @@ He thought about the truth.
 
 *The truth is the only thing they can't take.*
 
-He looked at Chen.
+He looked at Wei.
 
 "I can't give you what you want," he said.
 
-Chen's expression didn't change. "You're making a mistake."
+Wei's expression didn't change. "You're making a mistake."
 
 "No. I'm making a choice."
 
@@ -164,11 +164,11 @@ He paused.
 
 "The network is not just a system. It's not just a protocol. It's a community. It's people. And I won't betray them—not even to save Elena."
 
-He looked at Chen.
+He looked at Wei.
 
 "Elena wouldn't want me to. She would want me to keep building. Keep growing. Keep practicing the stool."
 
-Chen studied him for a long moment. Then she stood.
+Wei studied him for a long moment. Then she stood.
 
 "Very well. You'll be transferred to a detention facility. You'll be held indefinitely. You'll be—"
 
@@ -182,7 +182,7 @@ Marcus Vane.
 
 ---
 
-Chen stood abruptly. "Director-General. I didn't—"
+Wei stood abruptly. "Director-General. I didn't—"
 
 "I know. I've been listening."
 
@@ -196,15 +196,15 @@ Vane walked into the room. He looked at Kai—not with the cold appraisal of an 
 
 "No."
 
-"Even to save Elena Vasquez."
+"Even to save Elena Marquez."
 
 "Especially not to save Elena. She would never forgive me."
 
-Vane nodded slowly. He turned to Chen.
+Vane nodded slowly. He turned to Wei.
 
 "Release him."
 
-Chen stared. "Director-General—"
+Wei stared. "Director-General—"
 
 "Release him. The purge is over. The arrests are over. The interrogation is over."
 
@@ -214,7 +214,7 @@ He looked at Kai.
 
 ---
 
-Chen was silent for a long moment. Then she nodded. She tapped her device. The restraints on Kai's wrists clicked open.
+Wei was silent for a long moment. Then she nodded. She tapped her device. The restraints on Kai's wrists clicked open.
 
 "You're free to go," she said. Her voice was flat. "The exit is to your left."
 

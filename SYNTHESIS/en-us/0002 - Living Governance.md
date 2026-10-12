@@ -1,4 +1,4 @@
-# Chapter 2: Living Governance
+# Living Governance
 
 The first chapter described the common good: Learning, Respect, and Curiosity. It described them as a cybernetic common ground among different belief systems. But a common good is not a constitution. It is a spirit. It becomes real only when it is embodied in mechanisms — in the institutions, laws, and procedures by which a society actually governs itself.
 

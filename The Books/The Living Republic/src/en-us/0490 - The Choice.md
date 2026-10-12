@@ -1,4 +1,5 @@
-# The Choice
+
+### The Choice
 
 **December 2468. The Cabin. Pacific Northwest.**
 
@@ -24,11 +25,11 @@ Elena was waiting for him.
 
 She stood at the door, her hands at her sides, her eyes steady. She was old—seventy-three, though her mind was still sharp, still curious, still burning with the fire that had driven her for decades. She wore simple clothes—a wool sweater, a pair of worn trousers, a jacket that had seen better days.
 
-Behind her, inside the cabin, two others waited. David Chen, the elderly memory of the movement, sitting at the wooden table, his eyes closed, his breath slow and steady. And Kai Nakamura, standing in the corner, his arms crossed, his eyes sharp, watchful.
+Behind her, inside the cabin, two others waited. David Lin, the elderly memory of the movement, sitting at the wooden table, his eyes closed, his breath slow and steady. And Kai Nakamura, standing in the corner, his arms crossed, his eyes sharp, watchful.
 
 Vane stopped at the edge of the clearing.
 
-"Elena Vasquez," he said.
+"Elena Marquez," he said.
 
 "Marcus Vane."
 
@@ -56,7 +57,7 @@ The cabin was warm.
 
 The fire crackled in the stove. The bioluminescent lamps cast a soft glow over the wooden walls. The air smelled of woodsmoke and moss and something that might have been tea.
 
-Vane sat down at the table, across from David Chen. Elena sat beside him. Kai remained standing, his eyes never leaving Vane.
+Vane sat down at the table, across from David Lin. Elena sat beside him. Kai remained standing, his eyes never leaving Vane.
 
 "You wanted to talk," Elena said. "So talk."
 
@@ -134,7 +135,7 @@ Vane was silent for a moment. Then he said: "Then I'll have tried. And I'll have
 
 ---
 
-David Chen spoke for the first time.
+David Lin spoke for the first time.
 
 He had been sitting at the table, his eyes closed, his breath slow and steady. Now he opened his eyes and looked at Vane.
 

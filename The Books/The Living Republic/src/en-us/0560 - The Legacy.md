@@ -1,3 +1,4 @@
+
 ### The Legacy
 
 **June 2485. The Downtown Eastside. Vancouver.**
@@ -314,7 +315,7 @@ He thought about the future.
 
 ---
 
-He took out his device—the laptop that Jamal had given him, the one that ran on PeerID, that stored his data in the distributed filesystem, that connected him to the network.
+He took out his device—the laptop that Jamal Nwosu had given him, the one that ran on PeerID, that stored his data in the distributed filesystem, that connected him to the network.
 
 He opened the app.
 
@@ -375,57 +376,3 @@ And he made a promise.
 *I will remember. I will always remember. And someday, someone will know.*
 
 He stood up. He walked back to the tower. He sat in the darkness and waited.
-
----
-
-**Epilogue: The Garden**
-
-**Year 2500. The City That Appears on Every Map.**
-
-The garden was gone.
-
-It had been buried beneath concrete—the roads, the buildings, the infrastructure of the city that had grown up around it. But something remained.
-
-A young woman named Amara was walking through the ruins of an old neighbourhood—a place that had once been called the Downtown Eastside, though no one remembered the name. She was exploring—looking for artifacts, looking for history, looking for something that would tell her about the world before the reform.
-
-She found the oak tree.
-
-It was dead now—a blackened stump, the bark stripped away, the branches long gone. But beneath it, in the soil, something was waiting.
-
-She knelt beside the stump and began to dig.
-
-She found a journal—leather-bound, cracked with age, the pages yellowed but still legible. She found a data drive—small, encrypted, still intact. She found a booklet—thin, worn, printed on cheap paper. She found a token—a wooden token, carved with a simple design, a three-legged stool.
-
-She sat in the ruins of the garden, the journal in her lap, the data drive in her hand, the booklet open on the ground, the token warm in her palm. She read the words that Miriam Vance had written in 1947. She read the words that Katherine Vance had kept secret for fifty years. She read the words that Ellie Vance had buried beneath the oak tree. She read the words that Pete had carried in his pocket and shared with the Witnesses. She read the words that Maya Chen had written in the Last Mile proposal. She read the words that Elena Vasquez had spoken to the council. She read the words that Kai Nakamura had whispered to the garden.
-
-And she knew.
-
-She knew about the Cataloguers. She knew about the deadline. She knew about the quarantine. She knew about the truth.
-
-She was the inheritor. The keeper of the seed.
-
-She stood up. She looked out at the city—the free city, the open city, the city that appeared on every map.
-
-She thought about the future.
-
-And she made a promise.
-
-*I will remember. I will always remember. And someday, someone will know.*
-
-She walked away, the journal in her hand, the data drive in her pocket, the booklet pressed against her heart, the token warm in her palm.
-
-The dance continued.
-
----
-
-*Light and Chaos,*
-*Order and possibility,*
-*Dancing at the edge of forever.*
-
-*And the edge is where we live.*
-
-*And the edge is what we are.*
-
-*And the dance goes on.*
-
----

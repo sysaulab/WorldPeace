@@ -1,3 +1,4 @@
+
 ### The Sillycone Initiative
 
 **August 1947. The Pentagon. Washington, D.C.**
@@ -22,7 +23,7 @@ The room was small, dominated by a rectangular table. Around it sat four people.
 
 General Krupp, of course. He nodded at her as she entered, his expression unreadable.
 
-Dr. Howard Chen, a physicist she had met briefly in New Mexico. He was a small man, precise, with the kind of nervous energy that came from too much coffee and too little sleep. He had studied the disc's energy signature, or tried to. He had told Miriam, once, that the disc was "not a machine, not in any sense we understand."
+Dr. Howard Lin, a physicist she had met briefly in New Mexico. He was a small man, precise, with the kind of nervous energy that came from too much coffee and too little sleep. He had studied the disc's energy signature, or tried to. He had told Miriam, once, that the disc was "not a machine, not in any sense we understand."
 
 Miriam Vance. Herself.
 
@@ -50,7 +51,7 @@ Miriam felt a cold knot form in her stomach. "Why not?"
 
 "Save the planet."
 
-Dr. Chen spoke for the first time. "The message was clear. We have one hundred years to restore biodiversity. That means reforestation, ocean cleanup, carbon reduction, habitat restoration. It means transforming our entire civilization—our economy, our agriculture, our energy systems. It means doing things that will be deeply unpopular with powerful interests."
+Dr. Lin spoke for the first time. "The message was clear. We have one hundred years to restore biodiversity. That means reforestation, ocean cleanup, carbon reduction, habitat restoration. It means transforming our entire civilization—our economy, our agriculture, our energy systems. It means doing things that will be deeply unpopular with powerful interests."
 
 "We can't do that in a panic," Krupp said. "We need stability. We need public cooperation. We need a narrative that gives people hope instead of fear."
 

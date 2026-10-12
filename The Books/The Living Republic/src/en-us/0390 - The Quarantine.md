@@ -1,3 +1,4 @@
+
 ### The Quarantine
 
 **January 2049. The Atlantic Megacity. Sector 7.**
@@ -102,7 +103,7 @@ He had been the witness.
 
 ---
 
-And then, one day, he found Amara.
+And then, one day, he found Amina.
 
 She was young—maybe twenty, maybe twenty-five. She was thin, hungry, tired. She had been living in the shelter for months, ever since her parents had died, ever since she had been left alone in the dampened world.
 
@@ -140,11 +141,11 @@ They talked all night.
 
 Pete told her about the Emissary. He told her about the transcript. He told her about the quarantine, the dampening, the managed lives. He told her about the truth.
 
-Amara listened. She asked questions. She challenged assumptions. She made connections.
+Amina listened. She asked questions. She challenged assumptions. She made connections.
 
 By dawn, they had a plan.
 
-"We need to share this," Amara said. "The booklet. The transcript. The story. We need to tell everyone."
+"We need to share this," Amina said. "The booklet. The transcript. The story. We need to tell everyone."
 
 "We can't tell everyone," Pete said. "The dampening—"
 
@@ -164,7 +165,7 @@ Pete was silent for a moment. Then he said: "The stool."
 
 "The stool. The three-legged stool. The short loop, the open question, the fragile shield. That's the grammar. That's how we build it."
 
-Amara looked at him.
+Amina looked at him.
 
 "Then let's build it."
 
@@ -178,7 +179,7 @@ Some people listened. Most did not. The dampening was strong—it had softened t
 
 But a few listened. A few remembered. A few joined.
 
-By the end of the first week, there were five of them—Pete, Amara, and three others. By the end of the first month, there were twenty. By the end of the first year, there were two hundred.
+By the end of the first week, there were five of them—Pete, Amina, and three others. By the end of the first month, there were twenty. By the end of the first year, there were two hundred.
 
 They met in secret—in the ruins, in the tunnels, in the places the dampening did not reach. They shared the transcript. They shared the booklet. They told the story.
 
@@ -202,7 +203,7 @@ The years passed.
 
 Pete died in 2052—peacefully, in the garden, his back against the oak tree, the booklet in his hand. The Witnesses buried him beneath the tree. They planted a new sapling—a small, fragile thing—and they watered it with greywater from the shelter, carried in buckets across the ruins.
 
-Amara took up the work. She was the witness now—the one who carried the truth, who shared the booklet, who built the network. She was not Pete. She was not a prophet. She was not a leader. She was simply the one who had refused to let go.
+Amina took up the work. She was the witness now—the one who carried the truth, who shared the booklet, who built the network. She was not Pete. She was not a prophet. She was not a leader. She was simply the one who had refused to let go.
 
 She carried the transcript. She carried the booklet. She told the story.
 
@@ -238,7 +239,7 @@ They began to see.
 
 ---
 
-Amara was old now—eighty, maybe ninety, her hair white, her face lined, her body frail. She had been leading the network for decades—ever since Pete had died, ever since she had taken up the work. She had watched the Witnesses grow—from five to fifty, from fifty to five hundred, from five hundred to five thousand.
+Amina was old now—eighty, maybe ninety, her hair white, her face lined, her body frail. She had been leading the network for decades—ever since Pete had died, ever since she had taken up the work. She had watched the Witnesses grow—from five to fifty, from fifty to five hundred, from five hundred to five thousand.
 
 She had watched the dampening fade.
 
@@ -264,17 +265,17 @@ She paused. She looked at the Regrowth Zone—the forests, the oceans, the green
 
 The Emissary appeared at noon.
 
-Amara was still standing at the edge of the city, the booklet in her hand. She had not moved. She had not eaten. She had not slept. She had been waiting.
+Amina was still standing at the edge of the city, the booklet in her hand. She had not moved. She had not eaten. She had not slept. She had been waiting.
 
 The light gathered slowly—not a flash, not a beam, but a presence. A woman made of light, standing before her, her form shifting and flowing like water, like fire, like something that had never been solid and never would be.
 
 She was the same as she had always been—tall, slender, her skin the color of dark soil, her eyes carrying an ancient, patient sadness. She had not aged. She had not changed.
 
-"Amara," she said.
+"Amina," she said.
 
 "Emissary."
 
-She stood beside Amara—not on the ground, but simply present. She looked at the Regrowth Zone—the forests, the oceans, the green horizon. She looked at the city—the sealed city, the managed city, the dampened city.
+She stood beside Amina—not on the ground, but simply present. She looked at the Regrowth Zone—the forests, the oceans, the green horizon. She looked at the city—the sealed city, the managed city, the dampened city.
 
 "You have seen," she said.
 
@@ -294,13 +295,13 @@ She paused.
 
 "The test was not about passing or failing. The test was about learning. The test was about growing. The test was about becoming something new."
 
-She looked at Amara.
+She looked at Amina.
 
 "The Cataloguers have decided to give you another chance."
 
 ---
 
-Amara stared at her.
+Amina stared at her.
 
 "Another chance?"
 
@@ -314,13 +315,13 @@ She paused.
 
 "You must continue. You must keep building. You must keep sharing. You must keep practicing the stool. The Cataloguers will be watching—not to judge, but to learn. They want to see if you can govern yourselves. If you can live in peace. If you can protect the fragile and tell the truth."
 
-She looked at Amara.
+She looked at Amina.
 
 "They want to see if you can be free."
 
 ---
 
-Amara was silent for a long moment.
+Amina was silent for a long moment.
 
 She thought about the journey. The shelter. The booklet. The Emissary. The transcript. The network. The Witnesses. The garden.
 
@@ -336,17 +337,17 @@ She paused.
 
 "They will say you're crazy. They will say you made it all up. They will say the same about the booklet. The same about the stool. They will say it about anyone who challenges the silence."
 
-Amara nodded slowly.
+Amina nodded slowly.
 
 "So why bother?"
 
-The Emissary smiled—a real smile, the first Amara had ever seen on her face.
+The Emissary smiled—a real smile, the first Amina had ever seen on her face.
 
-"Because peace is not a destination, Amara. It is a stool we are still learning to sit on, side by side, without falling. And every voice that refuses to be silent is another leg."
+"Because peace is not a destination, Amina. It is a stool we are still learning to sit on, side by side, without falling. And every voice that refuses to be silent is another leg."
 
 ---
 
-Amara stood at the edge of the city for a long time after the Emissary left.
+Amina stood at the edge of the city for a long time after the Emissary left.
 
 She held the booklet in her hand. She thought about the words the Emissary had spoken. She thought about the quarantine, the dampening, the managed lives. She thought about the second chance.
 
@@ -362,13 +363,13 @@ She thought about the future.
 
 ---
 
-That night, Amara gathered the Witnesses in the ruins.
+That night, Amina gathered the Witnesses in the ruins.
 
 They came slowly—the ones who could still move, the ones who had not fully let go. They came from the shelter, from the tunnels, from the ruins. They came because they remembered. Because they had not let go. Because they had always known that something was missing.
 
 There were many of them now—thousands, scattered across the city, connected by the network, bound by the truth. They sat among the ruins, their hands in the soil, their voices low. They waited for her to speak.
 
-Amara stood at the edge of the garden. She looked at the faces around her—the old and the young, the tired and the hopeful, the ones who had been with her from the beginning and the ones who had joined only yesterday.
+Amina stood at the edge of the garden. She looked at the faces around her—the old and the young, the tired and the hopeful, the ones who had been with her from the beginning and the ones who had joined only yesterday.
 
 "I saw her again," she said. "The Emissary."
 
@@ -400,7 +401,7 @@ Then one of them—a young woman, barely twenty, her eyes alive and awake—spok
 
 "How do we do it?"
 
-Amara looked at her.
+Amina looked at her.
 
 "We keep doing what we've been doing. We share the truth. We build the network. We practice the stool. We protect the fragile. We tell the story."
 

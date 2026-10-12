@@ -61,7 +61,7 @@ She saw Yuki, the ramen vendor, sitting near the front, her hands wrapped around
 
 She saw Marcus, the former developer, leaning against the wall with his arms crossed. Marcus had been cynical at first—had looked at the reciprocal money and seen a game, a popularity contest, a new set of owners. But something had changed. He had started working in the fabrication shop, had discovered that he was good at it, had started mentoring younger members. And the reciprocal money had started flowing his way—not because he was rich, not because he was powerful, but because he had helped.
 
-She saw Amara, the young woman who had been homeless for three years, sitting on the floor with her back against the wall. Amara had joined the weave six months ago. She had no resources, no power, no connections. But she had something else—a fierce intelligence, a refusal to give up, a deep knowledge of the neighbourhood's hidden networks. She had become one of the weave's most effective organizers, connecting with people that no one else could reach.
+She saw Amara Osei, the young woman who had been homeless for three years, sitting on the floor with her back against the wall. Amara Osei had joined the weave six months ago. She had no resources, no power, no connections. But she had something else—a fierce intelligence, a refusal to give up, a deep knowledge of the neighbourhood's hidden networks. She had become one of the weave's most effective organizers, connecting with people that no one else could reach.
 
 She saw all of them—the three hundred members of the weave, gathered in this small room, waiting to hear how the first dividend would be distributed.
 
@@ -123,21 +123,21 @@ Yuki was first. She presented her device, received her base money, and then look
 
 "That's the idea," David replied.
 
-Yuki looked around the room. Her eyes landed on an elderly woman named Mrs. Chen—no relation to Maya, but a distant cousin of the Lis who ran the Golden Lotus. Mrs. Chen had been living in the neighbourhood for fifty years. She had raised three children, buried a husband, survived cancer twice. She was frail now, her hands gnarled with arthritis, her eyes clouded with cataracts.
+Yuki looked around the room. Her eyes landed on an elderly woman named Mrs. Lam—no relation to Maya, but a distant cousin of the Lis who ran the Golden Lotus. Mrs. Lam had been living in the neighbourhood for fifty years. She had raised three children, buried a husband, survived cancer twice. She was frail now, her hands gnarled with arthritis, her eyes clouded with cataracts.
 
 Yuki walked over to her.
 
-"Mrs. Chen," she said. "You helped me when I first opened my stall. You gave me your recipe for broth. You told me not to give up."
+"Mrs. Lam," she said. "You helped me when I first opened my stall. You gave me your recipe for broth. You told me not to give up."
 
-Mrs. Chen looked up, surprised.
+Mrs. Lam looked up, surprised.
 
 "That was twenty years ago," she said.
 
 "I know. But I never forgot." Yuki opened her device. "I want to give you this. It's not much. But it's my way of saying thank you."
 
-She transferred $10 in reciprocal money to Mrs. Chen's account.
+She transferred $10 in reciprocal money to Mrs. Lam's account.
 
-Mrs. Chen stared at her device. The money was now spendable—activated by the gift.
+Mrs. Lam stared at her device. The money was now spendable—activated by the gift.
 
 "I don't know what to say," she whispered.
 
@@ -149,7 +149,7 @@ The reciprocal transactions flowed through the room like a current.
 
 Marcus gave $5 to a young man named Jamal who had helped him fix a broken machine in the fabrication shop.
 
-Amara gave $3 to a child who had helped her carry groceries up the stairs.
+Amara Osei gave $3 to a child who had helped her carry groceries up the stairs.
 
 Thomas gave $10 to a woman named Maria who had cooked a meal that reminded him of his grandmother's kitchen.
 
