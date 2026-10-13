@@ -96,7 +96,7 @@
 
   "audio": {
     "engine": "say",
-    "voice": { "en-us": "Ava (Premium)", "fr": "Thomas" },
+    "voice": { "en-us": "Ava (Premium)", "fr-ca": "Amélie (Premium)", "es-mx": "Marisol (Premium)" },
     "rate": 175,
     "output": "m4b",
     "bitrate": "256k",

@@ -52,6 +52,7 @@ def run_translation(config, target_lang):
         "--source-lang", src_full,
         "--output-dir", tgt,
         "--target-lang", tgt_full,
+        "--no-recursive",
     ]
     print(f"  Translating {src} -> {tgt}: {' '.join(cmd)}")
     subprocess.run(cmd, check=True)

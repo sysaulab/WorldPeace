@@ -1,4 +1,4 @@
-# THE LIVING REPUBLIC
+# THE LIVING REPUBLIC.
 
 ## PROLOGUE: THE PATIENT
 
@@ -408,7 +408,7 @@ And the dance goes on.
 
 **END PROLOGUE**
 
-## Part One: The Crack
+## Part One: The Crack.
 
 ### The First Slide
 
@@ -3535,7 +3535,7 @@ darkness. And somewhere, deep beneath the desert, the disc was humming.
 
 *We will continue to watch.*
 
-## Part Two: The Build
+## Part Two: The Build.
 
 ### The Opposition
 
@@ -7184,7 +7184,7 @@ The hum had stopped.
 
 The Cataloguers were gone.
 
-## Part Three: The Trap
+## Part Three: The Trap.
 
 ### The Numbers
 
@@ -11607,7 +11607,7 @@ forever.*
 
 *And the dance goes on.*
 
-## Part Four: The Cage
+## Part Four: The Cage.
 
 ### The Garden
 
@@ -16051,7 +16051,7 @@ He thought about the future.
 
 And he smiled.
 
-## Part Five: The Edge
+## Part Five: The Edge.
 
 ### The Watcher
 
@@ -19987,7 +19987,7 @@ know.*
 He stood up. He walked back to the tower. He sat in the darkness and
 waited.
 
-## Part Six: The Pax
+## Part Six: The Pax.
 
 ### The Turning
 
@@ -21532,6 +21532,8 @@ forever.*
 *For everyone who planted seeds they would never see grow.*
 
 *The dance goes on.*
+
+## Part Six: The Cataloguers.
 
 ### The Report
 

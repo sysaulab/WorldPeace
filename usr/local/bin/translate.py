@@ -295,6 +295,11 @@ def main():
         "--input-dir", required=True, help="Directory containing source documents"
     )
     parser.add_argument(
+        "--no-recursive",
+        action="store_true",
+        help="Only translate files directly inside --input-dir (no subdirs).",
+    )
+    parser.add_argument(
         "--output-dir", required=True, help="Directory to save translated documents"
     )
     parser.add_argument(
@@ -383,14 +388,11 @@ def main():
         sys.exit(1)
 
     files_to_translate = []
+    walker = input_dir.glob if args.no_recursive else input_dir.rglob
     for ext in args.extensions:
         ext = ext if ext.startswith(".") else f".{ext}"
-        files_to_translate.extend(input_dir.rglob(f"*{ext}"))
+        files_to_translate.extend(walker(f"*{ext}"))
     files_to_translate = sorted(set(files_to_translate))
-    logger.info(f"Found {len(files_to_translate)} files to translate.")
-    if not files_to_translate:
-        logger.info("Nothing to do. Exiting.")
-        return
 
     # Build task list
     tasks = []
